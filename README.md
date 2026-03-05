@@ -23,13 +23,17 @@ I plan to use Adobe XD, procreate (for hand-drawn elements) and potentially alig
 
 ## Functional Requirements
 ### Purpose of the Application
+This app will allow users 
 ### Use Cases
+Identify at least four key user actions:  
+Users will select a song from the libray
 ### Text Cases
+The frog species represents the singer, visible from under the name of the song. When the user clicks the species, they will be redirected to their profile with key facts and and and images.
+
 ## Non-Functional requirements
-### Peformance
+### Performance
 ### Usability
+
 ### Reliability
 ### Security
-
-
 
