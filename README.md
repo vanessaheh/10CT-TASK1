@@ -9,27 +9,27 @@ The book I have chosen in Australian Geographic's "A complete guide to Frogs of 
 
 "Frogs of Australia" provides a detailed account for all 246 recognised species and subspecies (as of 2018), including photographs, distribution maps, characteristics, reproduction, status and more. The encyclopaedia is divided into 5 coloured categories: Australian tree frogs, foam-nesting ground frogs, ground frogs, narrow-mouthed frogs, true frogs, and true toads, visible from the outer edges. The frontmost pages outlines the contents and a brief introduction, while the back has an index and bibliography.
 
-I chose this book after reading and returning my first option (Anomaly) because I found that the topic of frogs seemed more interesting, and would be useful if I ever became a batrachologist. 
+I chose this book after reading and returning my first option (Anomaly) because I found that the topic of frogs seemed more interesting, and would be better suited to create an experience out of overall.
 
 ### User Experience Type
 My project will be an interactive app that is engaging, informative, and aesthetically pleasing. This format enhances the themes of the book by providing an immersive audio experience where users can listen to real demonstrations by Australian frogs. 
 
 ### Target Market
-While Croakify itself (the app and listening to audio) is available to all ages, users need to have at least primary school reading level to understand given facts and terminology. This project will appeal to the target audience because
+While Croakify itself (the app and listening to audio) is available to all ages, users need to have at least primary school reading level to understand given facts and terminology. This project will appeal to the target audience because it allows users to discover and browse through diferent frog species without having to read long paragraphs of scientific text, as in the encyclopaedia.
 
 ### Software and Tools
 
 |Chosen software and tools| Explanation |
 |---|---|
-| Adobe XD | To create the main app/ base and later integrate my own elements |
-| Procreate | To develop hand drawn graphics (eg. frog pfps, song covers, app logo) |
-| Alight Motion | To transform transparent pngs from procreate into gifs to import into XD (eg. loading screen, image effects)|
+| Adobe XD | Abobe XD will be used to create the main app/ interface of Croakify as I have already used Figma and would like to try a new platform. Moreover, from my own experiences, Figma makes it difficult integrate my own elements and postion them freely. |
+| Procreate | Procreate is my main platform when developing hand drawn graphics, and allows exportation in a variety of formats. I will use it to design components such as frog pfps, song covers and the app logo. |
+| Alight Motion | Alight Motion will be used to transform transparent pngs from procreate into gifs, and is quite easy to use. There are also many alight motion tutorials if I am unsure of what to do (eg. loading screen, image effects). |
 
 ### Initial Brainstorming
 !['initial_brainstorming'](./images/initial_brainstorming.png)
 
 ### Chosen Idea
-I chose this idea over other ideas mainly because of its personal appeal and consideration of 
+I chose this idea over other ideas mainly because of its
 
 ## Functional Requirements
 ### Purpose of the Application
