@@ -21,7 +21,7 @@ While Croakify itself (the app and listening to audio) is available to all ages,
 
 |Chosen software and tools| Explanation |
 |---|---|
-| Adobe XD | Abobe XD will be used to create the main app/ interface of Croakify as I have already used Figma and would like to try a new platform. Moreover, from my own experiences, Figma makes it difficult integrate my own elements and postion them freely. |
+| Adobe XD | Abobe XD will be used to create the main app/ interface of Croakify as I have already used Figma and would like to try a new platform. Moreover, from my own experience, Figma makes it difficult integrate my own elements and postion them freely. |
 | Procreate | Procreate is my main platform when developing hand drawn graphics, and allows exportation in a variety of formats. I will use it to design components such as frog pfps, song covers and the app logo. |
 | Alight Motion | Alight Motion will be used to transform transparent pngs from procreate into gifs, and is quite easy to use. There are also many alight motion tutorials if I am unsure of what to do (eg. loading screen, image effects). |
 
@@ -29,14 +29,20 @@ While Croakify itself (the app and listening to audio) is available to all ages,
 !['initial_brainstorming'](./images/initial_brainstorming.png)
 
 ### Chosen Idea
-I chose this idea over other ideas mainly because of its
+I chose this idea mainly because of its distinctiveness and suitability according to my timeframe and skillset. Other ideas were either too time consuming or hard to find the tutorials or resources for, which could significantly affect my final project. 
+I have already used alight motion and procreate before, which allows me to focus more on developing my app functions and learn Adobe XD rather than, for example, learning how to 3D model for a small game component. 
+Furthermore, I wanted to include as much information/relevance from my book as possible, given that it is factual.
 
 ## Functional Requirements
 ### Purpose of the Application
-This app will inform users on a few selected Australian frogs 
+Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time + productivity) through audio and short summaries in a structure similar to Spotify. This app will both promote the book ans engage fans within its genre shsadiufudhduhfdhfudf
 ### Use Cases
 Identify at least four key user actions:  
-Users will select a song from the libray
+- Users can select songs from an alphabetically ordered frog playlist by clicking the its title 
+- Users can pause/play a song with a button on the
+- Users can click into a frog profile for facts
+- Users can skip/go back to previous songs
+- Users can expand/compress the song 
 ### Text Cases
 The frog species represents the singer, visible from under the name of the song. When the user clicks the species, they will be redirected to their profile with key facts and images.
 
