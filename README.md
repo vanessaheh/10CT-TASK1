@@ -2,7 +2,7 @@
 Vanessa he
 ## Project proposal
 ### Design Brief
-My project will be "croakify", an app designed similarly to spotify, instead featuring frog noises in place of songs and informative short summaries under each of their profiles. The intended audience is individuals of all ages who have a light interest in frogs/animals and would like to learn about them in short summaries and interactive elements.
+My project will be "Croakify", an app designed similarly to spotify, instead featuring frog noises in place of songs and informative short summaries under each of their profiles. The intended audience is individuals of all ages who have a light interest in frogs/animals and would like to learn about them in short summaries and interactive elements.
 
 ### Book Choice and Justification
 The book I have chosen in Australian Geographic's "A complete guide to Frogs of Australia", written by SImon Clulow and Mike Swan, image credits on the side of each page.
@@ -12,10 +12,11 @@ The book I have chosen in Australian Geographic's "A complete guide to Frogs of 
 I chose this book after reading and returning my first option (Anomaly) because I found that the topic of frogs seemed more interesting, and would be useful if I ever became a batrachologist. 
 
 ### User Experience Type
-My project will be an interactive app that is engaging, informative, and aesthetically pleasing. This format enhances the themes of the book by providing an immersive audio experience where users can listen to real demonstrations by australian frogs. 
+My project will be an interactive app that is engaging, informative, and aesthetically pleasing. This format enhances the themes of the book by providing an immersive audio experience where users can listen to real demonstrations by Australian frogs. 
 
 ### Target Market
-While Croakify itself (the app and listening to audio) is available to all ages, the user owuld have to have at least primary school reading level to understand given facts and terminology. 
+While Croakify itself (the app and listening to audio) is available to all ages, users need to have at least primary school reading level to understand given facts and terminology. This project will appeal to the target audience because
+
 ### Software and Tools
 
 |Chosen software and tools| Explanation |
@@ -32,7 +33,7 @@ I chose this idea over other ideas mainly because of its personal appeal and con
 
 ## Functional Requirements
 ### Purpose of the Application
-This app will allow users 
+This app will inform users on a few selected Australian frogs 
 ### Use Cases
 Identify at least four key user actions:  
 Users will select a song from the libray
