@@ -35,16 +35,21 @@ Furthermore, I wanted to include as much information/relevance from my book as p
 
 ## Functional Requirements
 ### Purpose of the Application
-Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time + productivity) through audio and short summaries in a structure similar to Spotify. This app will both promote the book ans engage fans within its genre shsadiufudhduhfdhfudf
+Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time + productivity) through audio and short summaries in a structure similar to Spotify. This app will engage fans within its genre by transforming overly informative and monotonous content into an interactive experience with bite sized details and statistics.
 ### Use Cases
 Identify at least four key user actions:  
-- Users can select songs from an alphabetically ordered frog playlist by clicking the its title 
-- Users can pause/play a song with a button on the
-- Users can click into a frog profile for facts
-- Users can skip/go back to previous songs
-- Users can expand/compress the song 
+- **Selecting songs:** Upon starting the app, the user loads into a playlist wjere they are able to play and select songs by pressing the song title in an alphabetically arranged frog playlist. 
+- **Play/Pause:** When a song is seleted, right side of the screen (half) will show the cover of said song, along with title, singer, progress bar. Under the progress bvar, there will be a button that allows users to either play or pause the song. 
+- **Singer (frog) profiles**: When users click the singer under the song title, they will be redirected to their profile page with key facts and visuals.
+- **back button:** users can choose to go back to their previous page with a back button located at the top left side of the screen.
+
 ### Text Cases
-The frog species represents the singer, visible from under the name of the song. When the user clicks the species, they will be redirected to their profile with key facts and images.
+- **Selecting songs:** 
+- **Play/Pause:** When the pause/play button is selected, the song must stop/play within 0.2- 0.5 seconds along with the change in symbol. (triangle/parallel bars)  
+This will be self tested by repeatedly clicking 
+- **Singer (frog) profiles**: when users click the frog's name under the song title, they will be redirected to it's profile page with key facts and visuals.
+- **back button:** users can choose to go back to their previous page with a back button located at the top left side of the screen.
+
 
 ## Non-Functional requirements
 ### Performance
