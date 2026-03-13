@@ -38,23 +38,29 @@ Furthermore, I wanted to include as much information/relevance from my book as p
 Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time + productivity) through audio and short summaries in a structure similar to Spotify. This app will engage fans within its genre by transforming overly informative and monotonous content into an interactive experience with bite sized details and statistics.
 ### Use Cases
 Identify at least four key user actions:  
-- **Selecting songs:** Upon starting the app, the user loads into a playlist wjere they are able to play and select songs by pressing the song title in an alphabetically arranged frog playlist. 
-- **Play/Pause:** When a song is seleted, right side of the screen (half) will show the cover of said song, along with title, singer, progress bar. Under the progress bvar, there will be a button that allows users to either play or pause the song. 
+- **Selecting songs:** Upon starting the app, the user loads into a playlist where they are able to play and select songs by pressing the song title in an alphabetically arranged frog playlist. 
+- **Play/Pause:** When a song is seleted, right side of the screen (half) will show the cover of said song, along with title, singer, progress bar. Under the progress bar, there will be a button that allows users to either play or pause the song. 
 - **Singer (frog) profiles**: When users click the singer under the song title, they will be redirected to their profile page with key facts and visuals.
-- **back button:** users can choose to go back to their previous page with a back button located at the top left side of the screen.
+- **Back button:** users can choose to go back to their previous page with a back button located at the top left side of the screen.
 
 ### Text Cases
-- **Selecting songs:** 
+- **Selecting songs:** Self testing via spam selecting songs while they are still playing to confirm it changes in both the right side of the screen and in audio. 
 - **Play/Pause:** When the pause/play button is selected, the song must stop/play within 0.2- 0.5 seconds along with the change in symbol. (triangle/parallel bars)  
-This will be self tested by repeatedly clicking 
-- **Singer (frog) profiles**: when users click the frog's name under the song title, they will be redirected to it's profile page with key facts and visuals.
-- **back button:** users can choose to go back to their previous page with a back button located at the top left side of the screen.
+This will be self tested by repeatedly clicking the pause/play button, ensuring it does not lag and responds as intended to player input.
+- **Singer (frog) profiles**: 
+
+- **back button:** Asking peers to press the back button for every redirection they encounter while using the app, reporting errors.
 
 
 ## Non-Functional requirements
+
 ### Performance
+
+The app will deliver smooth, reponsive interactions via simple transitions between scenes, expected response to input within 0.5- 1 second (excluding loading into the app), and should not lag, glitch or display the wrong page.
 ### Usability
 
+
 ### Reliability
+Craokify will be consistent and bug-free through meticulous and regular testing of buttons, functions and correct loading of elements. The app will be examined across a variety of devices and screen sizes, ensuring that layout, text and media are to proportion and are not cut off the screen Furthermore, I will certify that information, images and audio are extracted from credible sources such as National Geographic and WWF, and does not includes bias or skewed data.
 ### Security
 
