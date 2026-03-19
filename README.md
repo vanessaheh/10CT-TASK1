@@ -78,22 +78,28 @@ Undergoing regular server check and maintenance would also boost security and ob
 ## Social, Ethical and Legal Issues
 
 ### Social impact: Target Audience Considerations
-
 Although the app is designed for all users, additional considerations will be made to support users with diabilities or accessibility needs so the app is inclusive and easy to use for everyone. These include the use of high contrast colours and fonts, clear and simple navigation, appropriate spacing to avoid accidental clicking and the minimisation of clutter or overwhelming of the screen. 
 There will also be warnings placed incase of sensitive or triggering content.
-
 
 ### Social impact: Potential Risks and Benefits
 
 Croakify will postively impact users by creating an enjoyable and memorable learning environment, encouraging curiosity about wildlife and environmental awareness, and inspiring future engagement with conservation topics and exploration beyond the app, especially in younger generations.
 
 However, there are also several potential risks associated with the creation of the app. If information is oversimplified in rephrasing the encyclopaedia or becomes outdated, users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species.
-Moreover, some frogs may have cultural significance to Indigenous Australians or other communities (eg. the northern corroboree frog as a sacred totem of changing season to the Walgalu people), and using images/data without proper acknowledgement or portrayal could be seen as disrepectful.
+Moreover, some frogs may have cultural significance to Indigenous Australians or other communities (eg. the northern corroboree frog as a sacred totem of changing season to the Walgalu people), and using images/data without proper acknowledgement or portrayal could be perceived as disrepectful.
 
 Since Croakify is highly audio based, users with hearing impairments will also be greatly disadvantaged.
 
-### Ethical responsibilities
+### Ethical responsibilities: User Data and Privacy
+The app will not collect user data since it does not affect it's functionality and usage, but if it was included later on, I would encrypt data via performing data minimisation, use encryption systems in both rest and transit (eg. AES- 256, TLS) and control who can access personal data, including user verification processes in changing/viewing sensitive information (passwords, user prefs and details). All collection would be transparently stated upon first registration, with clear and consistent policies, and data would be deidentified and destroyed when it is no longer needed or the account is deleted.
 
+### Ethical responsibilities: Representaion, inclusion and content sensitivity
+Since the app is mainly informative (exception of frog jokes), there should be no issues with representing the themes, ideas, or species from "Frogs of Australia", especially as most information will be extracted from the book and credible sources.
+However, a bibliography (image, videos, information), content warnings (eg. for the names of people who have died included within credits) and thorough external researching on cultural significance and 
+
+idkl 
+will be employed to reinforce and responsible handling and containment 
+on the topic and 
 
 ### Legal considerations
 
