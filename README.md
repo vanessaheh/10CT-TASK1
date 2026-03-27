@@ -115,3 +115,29 @@ on the topic and
 
 
 ### Research Software Options
+
+### Gantt chart
+![alt text](<images/Screenshot 2026-03-27 130418.png>)
+
+### Feedback: Usability
+The wireframes are very clear and structural, with consistent spacing between songs and 
+### Feedback: Aesthetics
+### Feedback: Functionality
+
+random
+Ask specific questions, such as:
+
+Clarity – "Is the layout easy to understand?"
+
+Navigation – "Can you tell how a user would move through this experience?"
+
+Engagement – "Does the design look appealing and engaging for the target audience?"
+
+
+very celar and strcutures, oc nsistent easy to understand and navigate cus it looks famililiar
+l;ikes the back button very intereactive
+lieks the frogs are like humans
+intuiatave sdesign
+uses space very well not overwhelming but fills the page up
+
+maybe put a home buttom so useres dont have to repetitively press back, navigation is easier, the second page is a little spacious so maybe add more on the second page
