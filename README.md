@@ -42,14 +42,14 @@ Croakify will inform users on a selection of Australian frogs (around 10-15, dep
 Identify at least four key user actions:  
 - **Selecting songs:** Upon starting the app, the user loads into a playlist where they are able to play and select songs by pressing the song title in an alphabetically arranged frog playlist. 
 
-- **Play/Pause:** When a song is seleted, right side of the screen (half) will show the cover of said song, along with title, singer, progress bar. Under the progress bar, there will be a button that allows users to either play or pause the song. 
+- **Play/Pause:** When a song is selected, the application will open the song's dedicated page, which includes a larger view of the cover, title, singer, progress bar. Under the progress bar, there will be a button that allows users to either play or pause the song. 
 
 - **Singer (frog) profiles**: When users click the singer under the song title, they will be redirected to their profile page with key facts and visuals.
 
 - **Back button:** Users can choose to go back to their previous page with a back button located at the top left side of the screen.
 
 ### Text Cases
-- **Selecting songs:** Self testing via selecting songs while they are still playing to confirm it changes in both the right side of the screen and in audio. 
+- **Selecting songs:** Self testing via selecting songs while they are still playing to confirm both the audio and page changes.
 
 - **Play/Pause:** When the pause/play button is selected, the song must stop/play within 0.2- 0.5 seconds along with the change in symbol. (triangle/parallel bars)  
 This will be self tested by repeatedly clicking the pause/play button, ensuring it does not lag and responds as intended to player input.
