@@ -109,9 +109,9 @@ on the topic and
 
 |UI Option| Plus | Minus | Implication|
 |---|---|---|---|
-| Spotify |  |
-| https://a-z-animals.com/ |  |
-| Alight Motion | |
+| Spotify | Spotify utilises a clear and consistent format that allows easy navigation and button identification |
+| A- Z animals|  |
+|  | |
 
 
 ### Research Software Options
@@ -119,10 +119,22 @@ on the topic and
 ### Gantt chart
 ![alt text](<images/Screenshot 2026-03-27 130418.png>)
 
+### Feedback
+
+| Usability | Aesthetics | Functionality|
+|---|---|---|
+| "I like the back button" | "Its not cluttered so its easy to understand"
+"Its very consistent" | "Its very clear"   
+"Its like spotify" | "The format is very consistent"
+
+
 ### Feedback: Usability
-The wireframes are very clear and structural, with consistent spacing between songs and 
+The wireframes are very clear and structural, with consistent spacing between elements, while utilising a familiar format to foster ease of navigation and overall understanding of the how the app functions. The design is very interactive and uses the space in a way it has enough information and images to be informative but still avoids overwhelming the user or appearing monotonous. 
 ### Feedback: Aesthetics
+
 ### Feedback: Functionality
+
+
 
 random
 Ask specific questions, such as:
