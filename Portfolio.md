@@ -113,9 +113,9 @@ If I were to expand Croakify, I would need to gain the consent to use any copyri
 
 |UI Option| Plus | Minus | Implication|
 |---|---|---|---|
-| Spotify | Spotify utilises a clear and consistent format that allows easy navigation and button identification |
-| A- Z animals|  |
-|  | |
+| [Spotify](https://open.spotify.com/)| Spotify uses consistent visuals across all pages, including the same fonts, spacing and layouts which quickly builds user familiarity and contribute to its ease of use. Important texts and buttons are made larger and eye catching, for example, the green play button and bold "Recommended for today" selection, while the permanent bar at the bottom allows for quick and convenient navigation across its core pages. I specifically like how fluid and natural interaction in the app feels, with simple transitions between pages, an animated loading screen, and primary exploration through scrolling rather than clicking too many buttons. |
+| [Oryzo](https://oryzo.ai/) | Oryzo uses a highly dynamic and interactive interface that successfully keeps the user entertained despite the large amount of information. The bright colour palette enhances its overall visual appeal as an advertisement, whereas the coffee inspired motifs reinforce the themes of the product. Moreover, the continous animation and reactive elements (eg. the coffee beans that move around your mouse) makes the experience seem more like a video than an website, creating a strong sense of immersion and strengthens engagement through real time user input and response.  |
+|  [Yozi](https://interactive-cafe-store.vercel.app/)| Yozi simulates its cafe environment in its website via warm, stylised graphics, sound effects, and choice in background music. Upon starting the website, the user must first "enter" the cafe, where they are greeted with a watercolour replica of its interior. Users can then press on tables to view the cafe menu and select the display cabinet for images of real cakes. By mapping interactions to real objects and familiar activities, the experience is made more intuitive, and therefore memorable and easy to understand.|
 
 ### Research Software Options
 
