@@ -36,7 +36,7 @@ Furthermore, I wanted to include as much information/relevance from my book as p
 ## Functional Requirements
 
 ### Purpose of the Application
-Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time + productivity) through audio and short summaries in a structure similar to Spotify. This app will engage fans within its genre by transforming overly informative and monotonous content into an interactive experience with bite sized details and statistics.
+Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time + productivity) through audio and short summaries in a structure similar to Spotify. This app will engage fans within its genre by transforming overly informative and tedious content into an interactive experience with bite sized details and statistics.
 
 ### Use Cases
 Identify at least four key user actions:  
@@ -105,6 +105,10 @@ As the app will not be commercially released, fair portions of copyrighted conte
 
 If I were to expand Croakify, I would need to gain the consent to use any copyrighted materials and conduct regular audits to confirm all third party content remains compliant with its licensing terms. It would also need to include clear terms of use that outlines what users can do with the content, prohibiting copying and redistribution. A disclaimer would also be included to limit my liability if there is misuse of the app.
 
+
+### Gantt chart
+<img src="images/ganttchart.png" width="800" height="">
+
 ### Research Existing UIs
 
 |UI Option| Plus | Minus | Implication|
@@ -113,43 +117,32 @@ If I were to expand Croakify, I would need to gain the consent to use any copyri
 | A- Z animals|  |
 |  | |
 
-
 ### Research Software Options
 
-### Gantt chart
-![alt text](images/ganttchart.png)
+|UI Option| Plus | Minus | Implication|
+|---|---|---|---|
+| Spotify | Spotify utilises a clear and consistent format that allows easy navigation and button identification |
+| A- Z animals|  |
+|  | |
+
+### Wireframes
+<img src="images/wireframe1.png" width="300" height="">
+<img src="images/wireframe2.png" width="300" height="">
+<img src="images/wireframe3.png" width="300" height="">
 
 ### Feedback
 
 | Usability | Aesthetics | Functionality|
 |---|---|---|
-| "I like the back button" | "Its not cluttered so its easy to understand"
-"Its " | "Its very clear"   
-"Its like spotify" | "The format is very consistent"
+| "I like the back button" | "Its not cluttered so its easy to understand"| "It looks exactly like a music app so it fulfills the listening purpose"
+"Maybe add a button to go straight home? " | "Its like spotify"| "What if users dont know you can press into the frogs profile"
+The format is very consistent and features orderly and well-fitting" | "I like how there is always some sort of image so it doesnt look boring"
 
 
-### Feedback: Usability
-The wireframes are very clear and structural, with consistent spacing between elements, while utilising a familiar format to foster ease of navigation and overall understanding of the how the app functions. The design is very interactive and uses the space in a way it has enough information and images to be informative but still avoids overwhelming the user or appearing monotonous. 
-### Feedback: Aesthetics
+### Feedback: Evaluation
+From both Yuna and Arisa's feedback, I have been able to identify key strengths and areas for improvement in my wireframes that could significantly enhance the overall user experience.  
+Visually, the wireframes are clear and structural, with consistent spacing between elements and a familiar format that fosters ease of navigation and understanding. The design is very interactive and balanced in a way that contains enough information and images to be informative but still avoids overwhelming the user or appearing monotonous.
 
-### Feedback: Functionality
+However, when it comes to usability, relying solely on a back button may be limiting, especially in situations where users have opened multiple pages or wish to quickly return home. Additionally, the ability to access the frog's profiles may not be immediately obvious to all users, such as those unfamiliar with apps like Spotify, and this issue may extend to other features within the design too.
 
-
-
-random
-Ask specific questions, such as:
-
-Clarity – "Is the layout easy to understand?"
-
-Navigation – "Can you tell how a user would move through this experience?"
-
-Engagement – "Does the design look appealing and engaging for the target audience?"
-
-
-very celar and strcutures, oc nsistent easy to understand and navigate cus it looks famililiar
-l;ikes the back button very intereactive
-lieks the frogs are like humans
-intuiatave sdesign
-uses space very well not overwhelming but fills the page up
-
-maybe put a home buttom so useres dont have to repetitively press back, navigation is easier, the second page is a little spacious so maybe add more on the second page
+Through this feedback, I have developed a deeper understanding of user needs and how they expect to move through the interface, particularly around the importance of clear and accessible visual cues. Moving forwards, I aim to integrate a home button below the back button and hover effects (underline) for interactive text if it is within my time frame.
