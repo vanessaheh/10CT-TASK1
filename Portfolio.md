@@ -26,7 +26,7 @@ While Croakify itself is appropriate for all ages, users need to have at least p
 | Alight Motion | Alight Motion will be used to transform transparent pngs from procreate into animated videos (eg. loading screen if included, image effects), and is quite easy to use. There are also many alight motion tutorials if I am unsure of what to do. |
 
 ### Initial Brainstorming
-!['initial_brainstorming'](./images/initial_brainstorming.png)
+<img src="images/initial_brainstorming.png" width="550" height="">
 
 ### Chosen Idea
 I chose this idea mainly because of its distinctiveness and suitability according to my timeframe and skillset. Other ideas were either too time consuming or hard to find the tutorials or resources for, which could significantly affect my final project. 
