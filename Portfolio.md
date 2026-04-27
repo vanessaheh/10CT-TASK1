@@ -23,7 +23,7 @@ While Croakify itself is appropriate for all ages, users need to have at least p
 |---|---|
 | Adobe XD | Abobe XD will be used to create the main app/ interface of Croakify as I have already used Figma and would like to try a new platform. From my own experience, Figma makes it difficult integrate my own elements and postion them freely. |
 | Procreate | Procreate is my main platform when developing hand drawn graphics, and allows exportation in a variety of formats. I will use it to design components such as frog pfps, song covers and the app logo. |
-| Alight Motion | Alight Motion will be used to transform transparent pngs from procreate into animated videos (eg. loading screen if included, image effects), and is quite easy to use. There are also many alight motion tutorials if I am unsure of what to do. |
+| Alight Motion (potentially) | Alight Motion will be used to transform transparent pngs from procreate into animated videos (eg. custom loading screen if included, perhaps animated banners), and is quite easy to use. There are also many alight motion tutorials if I am unsure of what to do. |
 
 ### Initial Brainstorming
 <img src="images/initial_brainstorming.png" width="550" height="">
