@@ -5,7 +5,7 @@ Vanessa he
 My project will be "Croakify", a Spotify inspired app that instead features frog noises in place of songs and informative short summaries under each of the frog's (singer) profiles. It will be designed for users of all ages who have a light interest in animals, offering a fun and exciting way to learn through audio, simple educational content, and interactive elements.
 
 ### Book Choice and Justification
-The book I have chosen in Australian Geographic's "A complete guide to Frogs of Australia", written by Simon Clulow and Mike Swan.
+The book I have chosen in Australian Geographic's *"A complete guide to Frogs of Australia"*, written by Simon Clulow and Mike Swan.
 
 The encylopaedia provides a detailed and comprehesive account for all 246 recognised species and subspecies (as of 2018), including photographs, distribution maps, characteristics, reproduction, status and more. It is divided into 5 coloured categories, visible from the outer edges: Australian tree frogs, foam-nesting ground frogs, ground frogs, narrow-mouthed frogs, true frogs, and true toads. The frontmost pages outlines the contents and a brief introduction, while the back has an index and bibliography.
 
@@ -62,30 +62,29 @@ Self testing by clicking on the singers, confirming that each profile loads/redi
 ## Non-Functional requirements
 
 ### Performance
-The app will deliver smooth, reponsive interactions via simple transitions between scenes, expected response to input within 0.5- 1 second (excluding loading into the app), and should not lag, glitch or display the wrong page.
+The app will deliver smooth, reponsive interactions via simple transitions between scenes, respond to input within 0.1- 1 second (excluding loading into the app), and should not lag, glitch or display the wrong page.
 
 ### Usability
-I will ensure Croakify will be easy to use by maintaining a consistent layout, colour palette, and clear, universal symbols in my buttons/interactive features. The same font, sizing, and stylisation (bold, italic, underlining) will be used throughout the app, and all text must high contrast with the background and easy to read/identify.
+I will ensure Croakify will be easy to use by maintaining a consistent layout, colour palette, and clear, universal symbols in my buttons/interactive features. The same font, sizing, and stylisation (bold, italic, underlining) will be used throughout the app, and all text must be of and easy to read/identify.
 
 ### Reliability
-Croakify will be consistent and bug-free through meticulous and regular testing of buttons, functions and correct loading of elements (either self or peer tested). If there is time, I will examine the app across a variety of devices and screen sizes, ensuring that layout, text and media are to proportion and are not cut off the screen. Furthermore, I will certify that information, images and audio are extracted from credible sources such as National Geographic and WWF, and does not includes bias or skewed data.
+Croakify will be consistent and bug-free through meticulous and regular testing of buttons, functions and correct loading of elements (either self or peer tested). All information, images and audio must be extracted from credible sources such as National Geographic and WWF, and should not includes bias or skewed data. Since my app is primarily for phones, I will examine the app across a variety of screen sizes and implement responsive resizing, ensuring that layout, text and media are to proportion and are not cut off the screen.
 
 ### Security
-Croakify should not collect any information or data, and the user must stay anonymous. However, if the app were to be published and released to the public, it would include an optional log in system with a username, passcode, and email verification, allowing for stream count for each singer and song (when a unqiue user has listened for at least 30 seconds). I would also implement rate limiting to prevent potential bot activity and overload, encrypt sensitive user information restrict and admin access to authorised individuals.
+Croakify should not collect any information or data, and the user must stay anonymous. However, if the app were to be published and released to the public, it would include an optional log in system with a username, passcode, and email verification, allowing for stream count for each singer and song (when a unique user has listened for at least 30 seconds). I would also implement rate limiting to prevent potential bot activity and overload, encrypt sensitive user information restrict and admin access to authorised individuals.
 
 Undergoing regular server check and maintenance would also boost security and obstruct malware and attackers.
 
 ## Social, Ethical and Legal Issues
 
 ### Social impact: Target Audience Considerations
-Although the app is designed for all users, additional considerations will be made to support users with disabilities or accessibility needs so the app is inclusive and easy to use for everyone. These include the use of high contrast colours and fonts, clear and simple navigation, appropriate spacing to avoid accidental misclicking and the minimisation of clutter or overwhelming of the screen.
-Content warnings will be placed where there are areas of potential sensitivity.
+Although the app is designed for all users, additional considerations regarding ease of use and inclusivity will be made to support users with disabilities or accessibility needs. These cover the use of high contrast colours and fonts, clear and simple navigation, appropriate spacing to avoid accidental misclicking and the minimisation of clutter or overwhelming of the screen.
 
 ### Social impact: Potential Risks and Benefits
 
-Croakify will postively impact users by creating an enjoyable and memorable learning environment, encouraging curiosity about wildlife and environmental awareness, and inspiring future engagement with conservation topics and exploration beyond the app, especially in younger generations.
+Croakify will postively impact users by creating an enjoyable and memorable learning environment, encouraging curiosity and environmental awareness, and inspiring external engagement with conservation topics, especially in younger generations.
 
-However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as the book is from 2018, information such as status will need to be rechecked), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
+However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as *"Frogs of Australia"* is from 2018, information such as status will need to be rechecked), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
 Moreover, some frogs may have cultural significance to Indigenous Australians or other communities (eg. the northern corroboree frog as a sacred totem of changing season to the Walgalu people), and using images/data without proper acknowledgement or portrayal could be perceived as disrepectful.
 
 Since Croakify is highly audio based, users with hearing impairments will also be greatly disadvantaged.
@@ -94,14 +93,14 @@ Since Croakify is highly audio based, users with hearing impairments will also b
 The app will not collect user data since it does not affect it's functionality and usage, but if it was included later on, I would encrypt data via performing data minimisation, use encryption systems in both rest and transit (eg. AES- 256, TLS) and control who can access personal data, including user verification processes in changing/viewing sensitive information (passwords, user prefs and details). All collection would be transparently stated upon first registration, with clear and consistent policies, and data would be deidentified and destroyed when it is no longer needed or the account is deleted.
 
 ### Ethical responsibilities: Representation, inclusion and content sensitivity
-Since the app is mainly informative (exception of frog jokes), there should be no issues with representing the themes, ideas, or species from "Frogs of Australia", especially as information will be only credible sources (including the book).
-However, bibliographies (image, videos, information), content warnings (eg. for referencing the names of the deceased included within credits) and thorough external researching on cultural significance and indigenous perspectives will still need to be implemented to ensure a respectful and responsible presentation.
+As the app is mainly informative (exception of frog jokes), there should be no issues with representing the themes, ideas, or species from *"Frogs of Australia"*, especially as information will be only credible sources (including the book).
+However, I will include a bibliography (image, videos, information) and undertake thorough external researching on cultural significance and indigenous perspectives to ensure a respectful and responsible app presentation.
 
 ### Legal considerations
-Scientific data and facts are generally not copyrighted, and can be used for research or in an informative app such as Croakify without infringement. To ensure compliance with copyright laws, images, text and information will be appropriately referenced and rephrased as to avoid plagiarism. 
+Scientific data and facts are generally not copyrighted, and can be used for research or in an informative app such as Croakify without infringement. To ensure compliance with copyright laws, images, text and information will be appropriately referenced in my bibliography and rephrased as to avoid plagiarism. 
 Since the audio content and some images are not my own, they must be sourced from royalty free or Creative Commons materials where possible. Recordings will be limited to around one minute or less to ensure they are used only as supporting material and do not replace the original work.
 
-As the app will not be commercially released, fair portions of copyrighted content may be used where absolutely necessary, under Australian "fair dealing for education" provisions, provided that proper attribution and acknowledgment is given to the owners.
+As the app will not be commercially released, fair portions of copyrighted content may be used where absolutely necessary, under Australian "fair dealing for education" provisions, assuming proper attribution and acknowledgment is given to the owners (bibliography).
 
 If I were to expand Croakify, I would need to gain the consent to use any copyrighted materials and conduct regular audits to confirm all third party content remains compliant with its licensing terms. It would also need to include clear terms of use that outlines what users can do with the content, prohibiting copying and redistribution. A disclaimer would also be included to limit my liability if there is misuse of the app.
 
@@ -144,4 +143,4 @@ Visually, the wireframes are clear and structural, with consistent spacing betwe
 
 However, when it comes to usability, relying solely on a back button may be limiting, especially in situations where users have opened multiple pages or wish to quickly return home. Additionally, the ability to access the frog's profiles may not be immediately obvious to all users, such as those unfamiliar with apps like Spotify, and this issue may extend to other features within the design too.
 
-Through this feedback, I have developed a deeper understanding of user needs and how they expect to move through the interface, particularly around the importance of clear and accessible visual cues. Moving forwards, I aim to integrate a home button below the back button and hover effects (underline) for interactive text if it is within my time frame.
+Through this feedback, I have developed a deeper understanding of user needs and how they expect to move through the interface, particularly around the importance of clear and accessible visual cues. Moving forwards, I aim to integrate a home button below the back button and hover effects (underline) for interactions if it is within my time frame.
