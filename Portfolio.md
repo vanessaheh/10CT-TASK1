@@ -144,3 +144,17 @@ Visually, the wireframes are clear and structural, with consistent spacing betwe
 However, when it comes to usability, relying solely on a back button may be limiting, especially in situations where users have opened multiple pages or wish to quickly return home. Additionally, the ability to access the singer's profiles may not be immediately obvious to all users, such as those unfamiliar with apps like Spotify, and this issue may extend to other features within the design too.
 
 Through this feedback, I have developed a deeper understanding of user needs and how they expect to move through the interface, particularly around the importance of clear and accessible visual cues. Moving forwards, I aim to underline clickable text (can't add hover effects for mobile) and integrate a home button below the back button if it is within my time frame.
+
+## Producing and Implementing
+### Testing and evaluating: prototype 1
+Yuna Shin  
+I like how the back button is really clear to see at the top. Also i really like how the play button looks like - it looks satisfying and feels good to click cause its big. Easy to navigate without any extra information and i like how the things you click to move on the the next pages are underlined so you won't have to worry and think about what to click. Foot graphics - good, i like it. I also like how they all look the smae its like satisfying to see 
+
+Probably should have like a button so that you can come from the singer name back the home screen straight away?? Makeks it easier cause then I dont have to click an extra time. I also like how the big the images are, 
+
+Arisa -
+It's very structured and intuitive as its similar to spotify and a lot of music apps which improves user navigation
+the song photos are very aesthetically pleasing and i like the nirvana frog its so touchable
+the transition between clicking the song and going to the song is very smooth and makes the ui really satisfying
+i love the buttons its so nice
+maybe add logo or the app name at the tippy top of the main screen? i kind of hate the gray it clashes with a lot of the song covers otherwise its perfect i loveee
