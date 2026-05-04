@@ -158,3 +158,18 @@ the song photos are very aesthetically pleasing and i like the nirvana frog its 
 the transition between clicking the song and going to the song is very smooth and makes the ui really satisfying
 i love the buttons its so nice
 maybe add logo or the app name at the tippy top of the main screen? i kind of hate the gray it clashes with a lot of the song covers otherwise its perfect i loveee
+
+### Ongoing evaluation: Week 1
+<img src="images/albumcovers1.jpeg" width="200" height="">
+<img src="images/albumcovers2.jpeg" width="200" height="">
+<img src="images/frogpfp.jpeg" width="300" height="">
+<img src="images/week1evaluation.png" width="400" height="">
+
+This week, I made and finished my first prototype, using rectangles instead of buttons and images, and with a simple grey coloured background, which I plan to change later. I made one template 
+
+### Ongoing evaluation: Week 2
+<img src="images/week2evaluation.png" width="200" height="">
+
+
+### Ongoing evaluation: Week 3
+
