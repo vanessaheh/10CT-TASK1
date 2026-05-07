@@ -173,7 +173,8 @@ This week, I made and finished my first prototype, using rectangles instead of b
 ### Ongoing evaluation: Week 2
 
 <img src="images/week2evaluation.png" width="200" height="">
-
+<img src="images/week2evaluation2.png" width="200" height="">
+<img src="images/week2evaluation3.png" width="200" height="">
 
 ### Ongoing evaluation: Week 3
 
