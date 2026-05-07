@@ -167,9 +167,30 @@ maybe add logo or the app name at the tippy top of the main screen? i kind of ha
 
 This week, I made and finished my first prototype, using rectangles instead of buttons and images, and with a simple grey coloured background, which I plan to change later. I made one template 
 
+### Testing and evaluating: prototype 2
+
+
 ### Ongoing evaluation: Week 2
+
 <img src="images/week2evaluation.png" width="200" height="">
 
 
 ### Ongoing evaluation: Week 3
+
+
+Yuna
+I like the pictures (high quality) and very sturcutred, easy to navigate i also really like the loadig screen. I like the drawings and how each page looks the same so it isnt too overhwleming. Big arrow button so easy to see. I like how each page is structured so thats its not too boring but not that decorated and over the top euither. Mayeb you need a logo so that they can get from the information page back to the start in one go and not press the back button twice ?? (idk). also why is the play button already on play.  i dont like that. why is it playihng before i even press anything. what if im outside and my phones on full volume. i like the names too but jayeb too big compared to the actuall bnames> or like maybe write how it is linekd to the actual frog in the description or smth cause it seems ireelavant.
+
+arisa
+i like the transitions
+I LOVE THE SONG ART its so pretty and i like how each song is like a reference to some artist in real life it definitely improvers user interaction with the program
+the 'artist info' frog thing the layout is really pretty and i like how they have a long panel and a profile photo and the outline on the profile adds clarity
+\maybe the back button should be locked to the page when u scroll so its more accessible and im a lazy bum + maybe fill the arrow cus like ur pause button is filled black so ur back arrow should be filled as well for consistency
+the transition times for each song is different make it consistent but i like that u added transitions it definitely elevates the user experience
+i think u should have a title or something logo or whatever on ur playlist page
+i like that u have a loading screen
+the black makes it very sleek and definitely made ur ui look prettier
+
+
+
 
