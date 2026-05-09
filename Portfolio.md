@@ -165,19 +165,20 @@ maybe add logo or the app name at the tippy top of the main screen? i kind of ha
 <img src="images/frogpfp.jpeg" width="300" height="">
 <img src="images/week1evaluation.png" width="400" height="">
 
-This week, I made and finished my first prototype, using rectangles instead of buttons and images, and with a simple grey coloured background, which I plan to change later. I made one template 
+This week, I drew/collaged (layer 6+12) all of my frog pfps (realistic) and album covers in procreate, and made/finished my first prototype. This prototype does not have any images, colour or meaningful text, but includes the basic animations and fun, such as scrolling the playlist, clicking into the songs, the pause and play button, clicking into the singer, and back button. I only made one testing slide, which I will need to duplicate later.
+
+The only challenge I really encountered was making the pause/play button a state, because if I put them on two artboard and linked them together, the user would have to press the back button twice to their real previous page. I resolved this by searching google adobe xd tutorials, which. helped me understand how states work and how I should go making one.
+
+I changed my prototype quite alot from my wireframes before, as I didn't expect an iphone to be so long. In response, I added extra footer graphics/space on every page (except for the loading), which would be my most important design choice of this week, because now I have a place to put my bibliography.
+
+songs + playlist -> footer graphics
+profile -> footer bibliography
+
+I aim to complete each prototype in a week, so I think my project managment so far is pretty great, but I spent way longer drawing than I thought. If I were to draw more graphics in the future, I should reserve more time.
+
+Next week, I want have all my artboards, pick my colour palette, add images, and put down all my text except for the information. I should also make a google doc where I can put my reference links and type up my draft profiles.
 
 ### Testing and evaluating: prototype 2
-
-
-### Ongoing evaluation: Week 2
-
-<img src="images/week2evaluation.png" width="200" height="">
-<img src="images/week2evaluation2.png" width="200" height="">
-<img src="images/week2evaluation3.png" width="200" height="">
-
-### Ongoing evaluation: Week 3
-
 
 Yuna
 I like the pictures (high quality) and very sturcutred, easy to navigate i also really like the loadig screen. I like the drawings and how each page looks the same so it isnt too overhwleming. Big arrow button so easy to see. I like how each page is structured so thats its not too boring but not that decorated and over the top euither. Mayeb you need a logo so that they can get from the information page back to the start in one go and not press the back button twice ?? (idk). also why is the play button already on play.  i dont like that. why is it playihng before i even press anything. what if im outside and my phones on full volume. i like the names too but jayeb too big compared to the actuall bnames> or like maybe write how it is linekd to the actual frog in the description or smth cause it seems ireelavant.
@@ -193,5 +194,67 @@ i like that u have a loading screen
 the black makes it very sleek and definitely made ur ui look prettier
 
 
+### Ongoing evaluation: Week 2
+
+<img src="images/week2evaluation.png" width="200" height="">
+<img src="images/week2evaluation2.png" width="200" height="">
+<img src="images/week2evaluation3.png" width="200" height="">
+
+This week, I duplicated my song and profile artboards ten times for each song, and made sure they all linked to their corresponding frogs. I also pasted all my drawings and added banners, which I linked in the promised google doc (from last week). 
+
+Although I didn't do much this time, choosing a colour palette was excessively hard. Initially, I had wanted to go for a dark blue or a green, so it didn't look too much like Spotify, but in the end, I still chose black. Every other option either didn't suit the colour palette, was too harsh on the eyes, or looked incohesive overall. Black was proven to be the safest and most neutral option. 
+
+I also added hover effects before realising it was a mobile app and had to delete everything.
+
+I didn't encounter any problems, but discovered that if you dragged an image into a shape, it would clip into it and allow for easy adjustment. This however, does not work for copy/paste. I used this technique to ensure all my images were consistent in size and placement.
+
+Again, my time and workflow was great, since I completed it before my expected deadline. I think I only worked on this once at home. I could have started my third prototype, but didn't because I was lazy. I might come to regret this later. 
+
+Next week, I aim to wrap up my whole project so I have more time too work on theory. This includes my loading screen (which I have come to keep), drawing my logo and footers, making a progress bar, importing my frog sounds, and writing up my frog profile information. I feel like I can complete this in time, but writing could take a long time.
+
+### Ongoing evaluation: Week 3
+
+This week, I finally finished my project.
+
+**Footers:**
+
+I drew up the footer in procreate, but decided it would look repetitive if I used the same image on every artboard. 
+
+**Frog sounds/music:**
+
+Through a youtube tutorial, I found that I cannot create real playback audio controls on Adobe XD, and it only supports basic functions and transitions.
+
+This means that I can't I can't have my play/pause song on one artboard, song progress will not save (pressing pause then play again will reset the song to the start), and pressing into the frog's profiles will stop the music. 
+
+To compromise, I separated the pause and play into two artboards, where "play_artboard" will have the music, and pause will have no music. 
+
+This presents the problem I wanted to avoid earlier by using one artboard only. 
+The user will have to press back twice to get to their real previous page (due to two artboards).
+
+After a while, I realised back on any song slide can only lead to home, which fixes my whole issue.
+Instead of setting both button's action to "previous page", I could set it to "home" instead.
+
+**Loading screen:**
+
+For the loading screen, I decided to keep it simple and have it show the app logo, and a loading bar which would match the progress bars in my songs. 
+
+After I drew my logo, I watched a progress bar youtube tutorial, and overall, completed it within an hour (including drawing).
+
+**Progress bar:**
+
+I thought I could reuse the same approach to make the progress bar as the loading screen progress bar, but the specific animation's allowance on XD was 1 second, and you couldn't use a time function twice on a slide (taken by music). 
+
+The only other alternative I could think of was making replica on alight motion and pasting the video into the "play_artboard", and an empty bar image on the "pause_artboard" (since adobe can't remember song progress anyways)
+
+I thought I had to export a new video for every song, since they are all different lengths (alight motion is ad per export and inefficient to use), but I found a website called [Ezgif](https://ezgif.com/video-speed/ezgif-3b2202eb5af08169.mp4.html) that could speed up the video according to how long the target end time is. 
+This helped me cut corners and overall, is the only reason I completed this protoype in a week. 
+
+I made sure to change the colour of the loading screen bar to the one from alight motion. 
+
+**Home shortcut:**
+
+Previously, I had said that I would make a home shortcut button under the back button if I had time at the end. But because of Arisa and Yuna's constant feedback and recommendation, I incorporated "Croakify" on the top of each page (except home) serve both as a shortcut and as a watermark. Spotify also has this function, but I had no idea until it was added into my own app.
+
+**Information:**
 
 
