@@ -84,7 +84,7 @@ Although the app is designed for all users, additional considerations regarding 
 
 Croakify will postively impact users by creating an enjoyable and memorable learning environment, encouraging curiosity and environmental awareness, and inspiring external engagement with conservation topics, especially in younger generations.
 
-However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as *"Frogs of Australia"* is from 2018, information such as status will need to be rechecked), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
+However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as *"Frogs of Australia"* is from 2018, information such as status will need to be rechecked, and there will need to be a disclaimer), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
 Moreover, some frogs may have cultural significance to Indigenous Australians or other communities (eg. the northern corroboree frog as a sacred totem of changing season to the Walgalu people), and using images/data without proper acknowledgement or portrayal could be perceived as disrepectful.
 
 Since Croakify is highly audio based, users with hearing impairments will also be greatly disadvantaged.
@@ -165,16 +165,16 @@ maybe add logo or the app name at the tippy top of the main screen? i kind of ha
 <img src="images/frogpfp.jpeg" width="300" height="">
 <img src="images/week1evaluation.png" width="400" height="">
 
-This week, I drew/collaged (layer 6+12) all of my frog pfps (realistic) and album covers in procreate, and made/finished my first prototype. This prototype does not have any images, colour or meaningful text, but includes the basic animations and fun, such as scrolling the playlist, clicking into the songs, the pause and play button, clicking into the singer, and back button. I only made one testing slide, which I will need to duplicate later.
+This week, I drew/collaged (layer 6+12) all of my frog pfps (realistic) and album covers in procreate, and made/finished my first prototype. This prototype does not have any images, colour or meaningful text, but includes the basic animations and interactions, such as scrolling the playlist, clicking into the songs, clicking into a singer, and a functional play button and back button. I only made one testing slide, which I will need to duplicate later.
 
-The only challenge I really encountered was making the pause/play button a state, because if I put them on two artboard and linked them together, the user would have to press the back button twice to their real previous page. I resolved this by searching google adobe xd tutorials, which. helped me understand how states work and how I should go making one.
+The only challenge I really encountered was making the pause/play button a state, because if I put them on two artboard and linked them together, the user would have to press the back button twice to their real previous page. I resolved this by searching google adobe xd tutorials, which helped me understand how states work and how I should go making one.
 
-I changed my prototype quite alot from my wireframes before, as I didn't expect an iphone to be so long. In response, I added extra footer graphics/space on every page (except for the loading), which would be my most important design choice of this week, because now I have a place to put my bibliography.
+I also didn't expect an iphone to be so long when I drew my wireframes, so I added extra footer graphics/space on every page (except for the loading). This would be my most important design choice of this week, as now I have a place to put my bibliography.
 
 songs + playlist -> footer graphics
 profile -> footer bibliography
 
-I aim to complete each prototype in a week, so I think my project managment so far is pretty great, but I spent way longer drawing than I thought. If I were to draw more graphics in the future, I should reserve more time.
+I aim to complete each prototype in a week, so I think my project managment so far is great, but I spent way longer drawing than I thought. If I were to draw more graphics in the future, I should reserve more time.
 
 Next week, I want have all my artboards, pick my colour palette, add images, and put down all my text except for the information. I should also make a google doc where I can put my reference links and type up my draft profiles.
 
@@ -206,11 +206,11 @@ Although I didn't do much this time, choosing a colour palette was excessively h
 
 I also added hover effects before realising it was a mobile app and had to delete everything.
 
-I didn't encounter any problems, but discovered that if you dragged an image into a shape, it would clip into it and allow for easy adjustment. This however, does not work for copy/paste. I used this technique to ensure all my images were consistent in size and placement.
+I didn't encounter any problems, but discovered that if you dragged an image over a shape, it would clip into it and allow for easy adjustment. This however, does not work for copy/paste. I used this technique to ensure all my images were consistent in size and placement.
 
 Again, my time and workflow was great, since I completed it before my expected deadline. I think I only worked on this once at home. I could have started my third prototype, but didn't because I was lazy. I might come to regret this later. 
 
-Next week, I aim to wrap up my whole project so I have more time too work on theory. This includes my loading screen (which I have come to keep), drawing my logo and footers, making a progress bar, importing my frog sounds, and writing up my frog profile information. I feel like I can complete this in time, but writing could take a long time.
+Next week, I aim to wrap up my whole project so I have more time to work on theory. This includes my loading screen (which I have come to keep), drawing my logo and footers, making a progress bar, importing my frog sounds, and writing up my frog profile information. I feel like I can complete this in time, but writing could take a long time.
 
 ### Ongoing evaluation: Week 3
 
@@ -226,13 +226,15 @@ Through a youtube tutorial, I found that I cannot create real playback audio con
 
 This means that I can't I can't have my play/pause song on one artboard, song progress will not save (pressing pause then play again will reset the song to the start), and pressing into the frog's profiles will stop the music. 
 
-To compromise, I separated the pause and play into two artboards, where "play_artboard" will have the music, and pause will have no music. 
+To compromise, I separated the pause and play into two artboards, where "play_artboard" will have the music, and "pause_artboard" will have no music. 
 
 This presents the problem I wanted to avoid earlier by using one artboard only. 
 The user will have to press back twice to get to their real previous page (due to two artboards).
 
-After a while, I realised back on any song slide can only lead to home, which fixes my whole issue.
+After a while, I realised the back function on any song slide can only lead to home, which fixes my whole issue.
 Instead of setting both button's action to "previous page", I could set it to "home" instead.
+
+Each audio file has also been through a normalisation website to guarantee they have similar raw volumes. 
 
 **Loading screen:**
 
@@ -242,14 +244,14 @@ After I drew my logo, I watched a progress bar youtube tutorial, and overall, co
 
 **Progress bar:**
 
-I thought I could reuse the same approach to make the progress bar as the loading screen progress bar, but the specific animation's allowance on XD was 1 second, and you couldn't use a time function twice on a slide (taken by music). 
+I thought I could reuse the same approach to make the progress bar as the loading screen progress bar, but the specific animation's maximum duration was 1 second, and you couldn't use a time function twice on the same slide (taken by music). 
 
-The only other alternative I could think of was making replica on alight motion and pasting the video into the "play_artboard", and an empty bar image on the "pause_artboard" (since adobe can't remember song progress anyways)
+The only other alternative I could think of was making a replica on alight motion, and pasting the video in, except without playback on "pause_artboard"(since adobe can't remember song progress anyways).
 
-I thought I had to export a new video for every song, since they are all different lengths (alight motion is ad per export and inefficient to use), but I found a website called [Ezgif](https://ezgif.com/video-speed/ezgif-3b2202eb5af08169.mp4.html) that could speed up the video according to how long the target end time is. 
+I had planned to export a new video for every song, since they are all different lengths (alight motion is ad per export and inefficient to use), but later found a website called [Ezgif](https://ezgif.com/video-speed/ezgif-3b2202eb5af08169.mp4.html) that could speed up the video according to how long the target end time is.
 This helped me cut corners and overall, is the only reason I completed this protoype in a week. 
 
-I made sure to change the colour of the loading screen bar to the one from alight motion. 
+For some reason, XD shrinks the progress bar video when it plays, but I could not find any reason why, especially as the no playback version of the same video is unaffected. This will not impact my project too much, so I decided to just leave it and move on.
 
 **Home shortcut:**
 
