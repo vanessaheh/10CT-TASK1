@@ -146,19 +146,6 @@ However, when it comes to usability, relying solely on a back button may be limi
 Through this feedback, I have developed a deeper understanding of user needs and how they expect to move through the interface, particularly around the importance of clear and accessible visual cues. Moving forwards, I aim to underline clickable text (can't add hover effects for mobile) and integrate a home button below the back button if it is within my time frame.
 
 ## Producing and Implementing
-### Testing and evaluating: prototype 1
-Yuna Shin  
-I like how the back button is really clear to see at the top. Also i really like how the play button looks like - it looks satisfying and feels good to click cause its big. Easy to navigate without any extra information and i like how the things you click to move on the the next pages are underlined so you won't have to worry and think about what to click. Foot graphics - good, i like it. I also like how they all look the smae its like satisfying to see 
-
-Probably should have like a button so that you can come from the singer name back the home screen straight away?? Makeks it easier cause then I dont have to click an extra time. I also like how the big the images are, 
-
-Arisa -
-It's very structured and intuitive as its similar to spotify and a lot of music apps which improves user navigation
-the song photos are very aesthetically pleasing and i like the nirvana frog its so touchable
-the transition between clicking the song and going to the song is very smooth and makes the ui really satisfying
-i love the buttons its so nice
-maybe add logo or the app name at the tippy top of the main screen? i kind of hate the gray it clashes with a lot of the song covers otherwise its perfect i loveee
-
 ### Ongoing evaluation: Week 1
 <img src="images/albumcovers1.jpeg" width="200" height="">
 <img src="images/albumcovers2.jpeg" width="200" height="">
@@ -172,27 +159,24 @@ The only challenge I really encountered was making the pause/play button a state
 I also didn't expect an iphone to be so long when I drew my wireframes, so I added extra footer graphics/space on every page (except for the loading). This would be my most important design choice of this week, as now I have a place to put my bibliography.
 
 songs + playlist -> footer graphics
-profile -> footer bibliography
+profile -> bibliography over footer graphics 
 
 I aim to complete each prototype in a week, so I think my project managment so far is great, but I spent way longer drawing than I thought. If I were to draw more graphics in the future, I should reserve more time.
 
 Next week, I want have all my artboards, pick my colour palette, add images, and put down all my text except for the information. I should also make a google doc where I can put my reference links and type up my draft profiles.
 
-### Testing and evaluating: prototype 2
+### Testing and evaluating: prototype 1
+Yuna Shin  
+I like how the back button is really clear to see at the top. Also i really like how the play button looks like - it looks satisfying and feels good to click cause its big. Easy to navigate without any extra information and i like how the things you click to move on the the next pages are underlined so you won't have to worry and think about what to click. Foot graphics - good, i like it. I also like how they all look the smae its like satisfying to see 
 
-Yuna
-I like the pictures (high quality) and very sturcutred, easy to navigate i also really like the loadig screen. I like the drawings and how each page looks the same so it isnt too overhwleming. Big arrow button so easy to see. I like how each page is structured so thats its not too boring but not that decorated and over the top euither. Mayeb you need a logo so that they can get from the information page back to the start in one go and not press the back button twice ?? (idk). also why is the play button already on play.  i dont like that. why is it playihng before i even press anything. what if im outside and my phones on full volume. i like the names too but jayeb too big compared to the actuall bnames> or like maybe write how it is linekd to the actual frog in the description or smth cause it seems ireelavant.
+Probably should have like a button so that you can come from the singer name back the home screen straight away?? Makeks it easier cause then I dont have to click an extra time. I also like how the big the images are, 
 
-arisa
-i like the transitions
-I LOVE THE SONG ART its so pretty and i like how each song is like a reference to some artist in real life it definitely improvers user interaction with the program
-the 'artist info' frog thing the layout is really pretty and i like how they have a long panel and a profile photo and the outline on the profile adds clarity
-\maybe the back button should be locked to the page when u scroll so its more accessible and im a lazy bum + maybe fill the arrow cus like ur pause button is filled black so ur back arrow should be filled as well for consistency
-the transition times for each song is different make it consistent but i like that u added transitions it definitely elevates the user experience
-i think u should have a title or something logo or whatever on ur playlist page
-i like that u have a loading screen
-the black makes it very sleek and definitely made ur ui look prettier
-
+Arisa -
+It's very structured and intuitive as its similar to spotify and a lot of music apps which improves user navigation
+the song photos are very aesthetically pleasing and i like the nirvana frog its so touchable
+the transition between clicking the song and going to the song is very smooth and makes the ui really satisfying
+i love the buttons its so nice
+maybe add logo or the app name at the tippy top of the main screen? i kind of hate the gray it clashes with a lot of the song covers otherwise its perfect i loveee
 
 ### Ongoing evaluation: Week 2
 
@@ -212,13 +196,34 @@ Again, my time and workflow was great, since I completed it before my expected d
 
 Next week, I aim to wrap up my whole project so I have more time to work on theory. This includes my loading screen (which I have come to keep), drawing my logo and footers, making a progress bar, importing my frog sounds, and writing up my frog profile information. I feel like I can complete this in time, but writing could take a long time.
 
+### Testing and evaluating: prototype 2
+
+Yuna
+I like the pictures (high quality) and very sturcutred, easy to navigate i also really like the loadig screen. I like the drawings and how each page looks the same so it isnt too overhwleming. Big arrow button so easy to see. I like how each page is structured so thats its not too boring but not that decorated and over the top euither. Mayeb you need a logo so that they can get from the information page back to the start in one go and not press the back button twice ?? (idk). also why is the play button already on play.  i dont like that. why is it playihng before i even press anything. what if im outside and my phones on full volume. i like the names too but jayeb too big compared to the actuall bnames> or like maybe write how it is linekd to the actual frog in the description or smth cause it seems ireelavant.
+
+arisa
+i like the transitions
+I LOVE THE SONG ART its so pretty and i like how each song is like a reference to some artist in real life it definitely improvers user interaction with the program
+the 'artist info' frog thing the layout is really pretty and i like how they have a long panel and a profile photo and the outline on the profile adds clarity
+\maybe the back button should be locked to the page when u scroll so its more accessible and im a lazy bum + maybe fill the arrow cus like ur pause button is filled black so ur back arrow should be filled as well for consistency
+the transition times for each song is different make it consistent but i like that u added transitions it definitely elevates the user experience
+i think u should have a title or something logo or whatever on ur playlist page
+i like that u have a loading screen
+the black makes it very sleek and definitely made ur ui look prettier
+
 ### Ongoing evaluation: Week 3
+<img src="images/week3evaluation.png" width="300" height="">
+<img src="images/week3evaluation2.png" width="150" height="">
+<img src="images/footersexample.png" width="400" height="">
+<img src="images/finalexample.png" width="400" height="">
 
 This week, I finally finished my project.
 
 **Footers:**
 
-I drew up the footer in procreate, but decided it would look repetitive if I used the same image on every artboard. 
+I drew up the footer in procreate, but thought using the same footer image for every artboard woul seem repetitive. I decided on only using the drawn one on the main screen, and pictures of the corresponding frog for the rest. 
+The fade effects were also transparent pngs from procreate.
+
 
 **Frog sounds/music:**
 
@@ -259,4 +264,6 @@ Previously, I had said that I would make a home shortcut button under the back b
 
 **Information:**
 
+I typed all my information in a google doc referencing my book and other credible sources including national geographic, museum sites, FrogId, and IUCN listings, and pasted them into my project.
 
+### Testing and evaluating: prototype 3
