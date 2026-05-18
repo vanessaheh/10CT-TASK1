@@ -84,7 +84,7 @@ Although the app is designed for all users, additional considerations regarding 
 
 Croakify will postively impact users by creating an enjoyable and memorable learning environment, encouraging curiosity and environmental awareness, and inspiring external engagement with conservation topics, especially in younger generations.
 
-However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as *"Frogs of Australia"* is from 2018, information such as status will need to be rechecked, and there will need to be a disclaimer), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
+However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as *"Frogs of Australia"* is from 2018, information such as status will need to be rechecked, and there will need to be a date of last edit disclaimer), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
 Moreover, some frogs may have cultural significance to Indigenous Australians or other communities (eg. the northern corroboree frog as a sacred totem of changing season to the Walgalu people), and using images/data without proper acknowledgement or portrayal could be perceived as disrepectful.
 
 Since Croakify is highly audio based, users with hearing impairments will also be greatly disadvantaged.
@@ -119,9 +119,9 @@ If I were to expand Croakify, I would need to gain the consent to use any copyri
 
 |Software Option| Plus | Minus | Implication|
 |---|---|---|---|
-| Adobe XD |  |
-| Figma|  |
-| Unity | |
+| Adobe XD | Adobe XD offers a variety of intuitive features and beginner friendly aspects such as drag and drop components, repeat grids and real time previews which allow for efficient and fast paced design processes. Basic animations and functions such as time triggered cues and screen transitions are also included presets within the prototype menu, so that users can create engaging interactive elements without needing to code. Furthermore, the layout and interface of the app follows a similar structure to other Adobe products I have previously used (AI, AP, ID), and should be relatively easy to learn.| According to online reviews, Adobe can be limiting when creating more detailed or complex prototypes due to the lack of advanced tools (conditional logic/variables etc.) and its discontinuation. It may also become laggy when working on large projects with many artboards and assets.| Adobe XD would be the most suitable software option for my project as there are many tutorials online explaining similar functions also used within my app (incuding the ones provided in class), while its straightfoward interface and protyping tools allow for professional looking results with minimal difficulty and experience. 
+| Canva| Canva includes a wide selection of design assets, preset elements, example templates and editing tools which m|
+| Figma | |
 
 ### Wireframes
 <img src="images/wireframe1.png" width="300" height="">
@@ -166,17 +166,12 @@ I aim to complete each prototype in a week, so I think my project managment so f
 Next week, I want have all my artboards, pick my colour palette, add images, and put down all my text except for the information. I should also make a google doc where I can put my reference links and type up my draft profiles.
 
 ### Testing and evaluating: prototype 1
-Yuna Shin  
-I like how the back button is really clear to see at the top. Also i really like how the play button looks like - it looks satisfying and feels good to click cause its big. Easy to navigate without any extra information and i like how the things you click to move on the the next pages are underlined so you won't have to worry and think about what to click. Foot graphics - good, i like it. I also like how they all look the smae its like satisfying to see 
 
-Probably should have like a button so that you can come from the singer name back the home screen straight away?? Makeks it easier cause then I dont have to click an extra time. I also like how the big the images are, 
+| Evaluator| Positive | Negative|
+| -------- | -------- | ------- |
+| Yuna | "the play button looks satisfying and feels good to click because it is big", "I like how interactive elements are underlined so I know what to press", "I like how the footer graphics are consistent is size", "I like how big the images are" | "I want a home button because I'm lazy to click twice"
+| Arisa | "Its like spotify and a lot of music apps which improves user navigation",  "aesthetically pleasing", "satisfying transitions and buttons"| "the grey is kinda yucky because it clashes with the colour palettes"
 
-Arisa -
-It's very structured and intuitive as its similar to spotify and a lot of music apps which improves user navigation
-the song photos are very aesthetically pleasing and i like the nirvana frog its so touchable
-the transition between clicking the song and going to the song is very smooth and makes the ui really satisfying
-i love the buttons its so nice
-maybe add logo or the app name at the tippy top of the main screen? i kind of hate the gray it clashes with a lot of the song covers otherwise its perfect i loveee
 
 ### Ongoing evaluation: Week 2
 
@@ -197,28 +192,11 @@ Again, my time and workflow was great, since I completed it before my expected d
 Next week, I aim to wrap up my whole project so I have more time to work on theory. This includes my loading screen (which I have come to keep), drawing my logo and footers, making a progress bar, importing my frog sounds, and writing up my frog profile information. I feel like I can complete this in time, but writing could take a long time.
 
 ### Testing and evaluating: prototype 2
-
-Yuna
-I like the pictures (high quality) and very sturcutred, easy to navigate i also really like the loadig screen. I like the drawings and how each page looks the same so it isnt too overhwleming. Big arrow button so easy to see. I like how each page is structured so thats its not too boring but not that decorated and over the top euither. Mayeb you need a logo so that they can get from the information page back to the start in one go and not press the back button twice ?? (idk). also why is the play button already on play.  i dont like that. why is it playihng before i even press anything. what if im outside and my phones on full volume. i like the names too but jayeb too big compared to the actuall bnames> or like maybe write how it is linekd to the actual frog in the description or smth cause it seems ireelavant.
-
-arisa
-i like the transitions
-I LOVE THE SONG ART its so pretty and i like how each song is like a reference to some artist in real life it definitely improvers user interaction with the program
-the 'artist info' frog thing the layout is really pretty and i like how they have a long panel and a profile photo and the outline on the profile adds clarity
-\maybe the back button should be locked to the page when u scroll so its more accessible and im a lazy bum + maybe fill the arrow cus like ur pause button is filled black so ur back arrow should be filled as well for consistency
-the transition times for each song is different make it consistent but i like that u added transitions it definitely elevates the user experience
-i think u should have a title or something logo or whatever on ur playlist page
-i like that u have a loading screen
-the black makes it very sleek and definitely made ur ui look prettier
-
-emma
-the transitions are very smooth and good and user friendly
-It's very aesthetically pleasing especially the album covers and the bottom bit which is very cutesy
-all the frog calls are really cool and I like how you can learn a lot about the frogs
-the only problem would be that I want to look at the doc thing but I can't click on it or copy paste it
-
-also the loading screen!! is so cute!!!!!!!!
-ya i rlly like
+| Evaluator| Positive | Negative|
+| -------- | -------- | ------- |
+| Yuna | "high quality images and drawings", "easy to navigate", "each page is consistent and not overwhelming or boring", "appropriately decorated", "buttons are familiar and easy to find" | "Do you have a logo?", "It would be nice to have a direct home button"
+| Arisa | "I like the transitions",  "I like the song art", "I like the outline on images that blend into the backgroud for clarity", "some songs are real life references that improves user engagement", "frog information is very structured and easy to understand"| "maybe the back button should be locked", "add a home button", "you should have a title or logo to tell the user what the app is"|
+| Emma | "smooth transitions",  "its very aesthetically pleasing", "I love the footers", "I like the frog calls", "very informative"| "you havent put the bibliography yet but I suggest you make it into a hyperlink so its clickable"|
 
 ### Ongoing evaluation: Week 3
 <img src="images/week3evaluation.png" width="300" height="">
@@ -273,7 +251,7 @@ Previously, I had said that I would make a home shortcut button under the back b
 
 **Information:**
 
-I typed all my information in a google doc referencing my book and other credible sources including national geographic, museum sites, FrogId, and IUCN listings, and pasted them into my project.
+I typed all my information in a google doc referencing my book and other credible sources including national geographic, museum sites, FrogId, and IUCN listings, and pasted them into my project. The bibliography is a hyperlink and the playlist has a title and short info section!!
 
 ## Final Evaluation
 ### Functional and Non-functional requirements:
