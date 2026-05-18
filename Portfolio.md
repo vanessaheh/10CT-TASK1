@@ -211,6 +211,15 @@ i think u should have a title or something logo or whatever on ur playlist page
 i like that u have a loading screen
 the black makes it very sleek and definitely made ur ui look prettier
 
+emma
+the transitions are very smooth and good and user friendly
+It's very aesthetically pleasing especially the album covers and the bottom bit which is very cutesy
+all the frog calls are really cool and I like how you can learn a lot about the frogs
+the only problem would be that I want to look at the doc thing but I can't click on it or copy paste it
+
+also the loading screen!! is so cute!!!!!!!!
+ya i rlly like
+
 ### Ongoing evaluation: Week 3
 <img src="images/week3evaluation.png" width="300" height="">
 <img src="images/week3evaluation2.png" width="150" height="">
@@ -266,4 +275,9 @@ Previously, I had said that I would make a home shortcut button under the back b
 
 I typed all my information in a google doc referencing my book and other credible sources including national geographic, museum sites, FrogId, and IUCN listings, and pasted them into my project.
 
-### Testing and evaluating: prototype 3
+## Final Evaluation
+### Functional and Non-functional requirements:
+### Design brief:
+### Social, Ethical and Legal responsibilities
+### Time, resources and processes
+### Gathering and responding to user feedback
