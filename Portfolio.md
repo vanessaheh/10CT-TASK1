@@ -119,10 +119,9 @@ If I were to expand Croakify, I would need to gain the consent to use any copyri
 
 |Software Option| Plus | Minus | Implication|
 |---|---|---|---|
-| Adobe XD | Adobe XD offers a variety of intuitive features and beginner friendly aspects such as drag and drop components, repeat grids and real time previews which allow for efficient and fast paced design processes. Basic animations and functions such as time triggered cues and screen transitions are also included presets within the prototype menu, so that users can create engaging interactive elements without needing to code. Furthermore, the layout and interface of the app follows a similar structure to other Adobe products I have previously used (AI, AP, ID), and should be relatively easy to learn.| According to online reviews, Adobe can be limiting when creating more detailed or complex prototypes due to the lack of advanced tools (conditional logic/variables etc.) and its discontinuation. It may also become laggy when working on large projects with many artboards and assets.| Adobe XD would be the most suitable software option for my project as there are many tutorials online explaining similar functions also used within my app (incuding the ones provided in class), while its straightfoward interface and protyping tools allow for professional looking results with minimal difficulty and experience. 
-| Canva| Canva includes a wide selection of design assets, preset elements, example templates and editing tools which m|
-| Figma | |
-
+| Adobe XD | Adobe XD offers a variety of intuitive features and beginner friendly aspects such as drag and drop components, repeat grids and real time previews which allow for efficient and fast paced design processes. Basic animations and functions such as response to different inputs and screen transitions are also included presets within the prototype menu, so that users can create engaging interactive elements without needing to code. Furthermore, the layout and interface of the app follows a similar structure to other Adobe products I have previously used (AI, AP, ID), and should be relatively easy to learn.| As adobe XD is discontinued, it has limited future updates, support, and feature development, which can make it harder to create large scale projects that require new and emerging tools to keep up with market competitors. Users also report frequent lag in projects with many artboards and assets.| Adobe XD would be the most suitable software option for my project as there are many tutorials online explaining similar functions also used within my app (incuding the ones provided in class), while its straightfoward interface and protyping tools allow for professional looking results with minimal difficulty and experience. While it is discontinued, the existing features should be enough in making my project, and I don't think I will look to expand it in the future. 
+| Canva| Canva includes a wide selection of design assets, preset elements, templates and editing tools that make it easy and quick to create visually appealing products. Notably, it presents built in brand kit features that allow users to maintain consistent colour palettes, fonts, sizing, and stylisation across one or multiple projects, and free premium services for students. As I am already familiar with Canva, I will not need much external research if I choose to pursue this software.| Canva is mainly focused on graphic design rather than fully functional prototyping, so interactive features and tools are extremely limited compared to specialised applications.| Canva would be userful for creating simple interfaces and graphic mockups due to its ease of use and large component library, but because my project requires more proficient prototyping, for example, time triggered responses, Canva  would not be able to provide enough functionality to produce my app, and will therefore not be used. 
+| Figma | Figma provides powerful UI and prototyping tools, with features such as reusable components, auto layout, interactive prototyping modes, and a range of plugins/community resources that can help users speed up workflow and create sophisticated projects. Since it runs on browser as well as a desktop app, it is easy to access and share work, and it saves automatically in real time, ensuring no work is lost in battery drains or crashes.| Figma can feel overwhelming for new users due to the large number of tools and elements which may require more time and practice to learn. Additionally, many useres claim initial navigation is difficult, especailly with finding hidden settings, responding to vague error notifications, and dynamic menus.| Using Figma would provide access to advances prototyping and design elements that could overall improve the quality and detail of my final product, however, the steeper learning curve may slow down development and make it harder to complete my project in the given time frame, making it an unsuitable option.
 ### Wireframes
 <img src="images/wireframe1.png" width="300" height="">
 <img src="images/wireframe2.png" width="300" height="">
@@ -166,13 +165,34 @@ I aim to complete each prototype in a week, so I think my project managment so f
 Next week, I want have all my artboards, pick my colour palette, add images, and put down all my text except for the information. I should also make a google doc where I can put my reference links and type up my draft profiles.
 
 ### Testing and evaluating: prototype 1
-
 | Evaluator| Positive | Negative|
 | -------- | -------- | ------- |
-| Yuna | "the play button looks satisfying and feels good to click because it is big", "I like how interactive elements are underlined so I know what to press", "I like how the footer graphics are consistent is size", "I like how big the images are" | "I want a home button because I'm lazy to click twice"
-| Arisa | "Its like spotify and a lot of music apps which improves user navigation",  "aesthetically pleasing", "satisfying transitions and buttons"| "the grey is kinda yucky because it clashes with the colour palettes"
+| Yuna | "the play button looks satisfying and feels good to click because it is big"| "I want a home button because I'm lazy to click twice"|| "I like how interactive elements are underlined so I know what to press"
+|| "I like how the footer graphics are consistent is size"
+|| "Its very pretty and interactive" | 
+| Arisa | "Its like spotify and a lot of music apps which improves user navigation"| "Its a lot of clicking"
+|| "aesthetically pleasing"|
+|| "satisfying transitions and buttons"| 
 
 
+
+Analyse the key themes that emerged from user feedback and their overall impact on the project.
+
+Evaluate how intuitive and user-friendly the prototype was based on user feedback.
+
+Analyse whether the design elements and accessibility features effectively met user needs.
+
+Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
+
+Analyse the similarities and differences between survey responses and interview insights to identify patterns.
+
+Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
+
+### Feedback Analysis: prototype 1
+From the feedback I have collected, I can deduce that my project is generally moving in a postive direction, though there are still problems that need to be addressed. While users found the prototype visually appealing and engaging, particularly the sizing/consistency of elements and "satisfying" transitions, navigation was found to be inefficient without a home button. 
+Although this was a recurring suggestion in my wireframes, there is not much space in my artboard, and placing it beside or under the back button would make the layout feel cluttered and less visually cohesive.
+
+In the future, my project's navigation should be rethought in a way that doesnt reduce usability, and I will need to explore alterantive layouts or a more efficient system where users can directly return home more easily and naturally within the interface. 
 ### Ongoing evaluation: Week 2
 
 <img src="images/week2evaluation.png" width="200" height="">
@@ -192,11 +212,21 @@ Again, my time and workflow was great, since I completed it before my expected d
 Next week, I aim to wrap up my whole project so I have more time to work on theory. This includes my loading screen (which I have come to keep), drawing my logo and footers, making a progress bar, importing my frog sounds, and writing up my frog profile information. I feel like I can complete this in time, but writing could take a long time.
 
 ### Testing and evaluating: prototype 2
+
 | Evaluator| Positive | Negative|
 | -------- | -------- | ------- |
-| Yuna | "high quality images and drawings", "easy to navigate", "each page is consistent and not overwhelming or boring", "appropriately decorated", "buttons are familiar and easy to find" | "Do you have a logo?", "It would be nice to have a direct home button"
-| Arisa | "I like the transitions",  "I like the song art", "I like the outline on images that blend into the backgroud for clarity", "some songs are real life references that improves user engagement", "frog information is very structured and easy to understand"| "maybe the back button should be locked", "add a home button", "you should have a title or logo to tell the user what the app is"|
-| Emma | "smooth transitions",  "its very aesthetically pleasing", "I love the footers", "I like the frog calls", "very informative"| "you havent put the bibliography yet but I suggest you make it into a hyperlink so its clickable"|
+| Yuna | "high quality images and drawings"|"Do you have a logo?"
+||"easy to navigate"| "It would be nice to have a direct home button"
+||  "each page is consistent and not overwhelming or boring"||
+||"appropriately decorated"||
+||"buttons are familiar and easy to find"||
+| Arisa | "I like the transitions"|"maybe the back button should be locked"
+||  "I like the song art"|"you should have a title or logo to tell the user what the app is"
+|| "I like the outline on images that blend into the backgroud for clarity"|"add a home button"
+|| "some songs are real life references that improves user engagement"||
+|| "frog information is very structured and easy to understand"||
+| Emma | "smooth transitions"| "you havent put the bibliography yet but I suggest you make it into a hyperlink so its clickable||
+||"its very aesthetically pleasing"|"maybe reunderline the song names"
 
 ### Ongoing evaluation: Week 3
 <img src="images/week3evaluation.png" width="300" height="">
