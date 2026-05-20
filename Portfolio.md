@@ -138,7 +138,7 @@ The format is very consistent and features orderly and well-fitting" | "I like h
 
 ### Feedback: Evaluation
 From both Yuna and Arisa's feedback, I have been able to identify key strengths and areas for improvement in my wireframes that could significantly enhance the overall user experience.  
-Visually, the wireframes are clear and structural, with consistent spacing between elements and a familiar format that fosters ease of navigation and understanding. The design is very interactive and balanced in a way that contains enough information and images to be informative but still avoids overwhelming the user or appearing monotonous.
+Visually, the wireframes are clear and structural, with consistent spacing between elements and a familiar format that fosters ease of navigation and understanding. The design is very interactive and balanced in a way that contains enough information and images to be informative but still avoids overwhelming the user or appearing monotonous. 
 
 However, when it comes to usability, relying solely on a back button may be limiting, especially in situations where users have opened multiple pages or wish to quickly return home. Additionally, the ability to access the singer's profiles may not be immediately obvious to all users, such as those unfamiliar with apps like Spotify, and this issue may extend to other features within the design too.
 
@@ -178,7 +178,7 @@ Next week, I want have all my artboards, pick my colour palette, add images, and
 From the feedback I have collected, I can deduce that my project is generally moving in a postive direction, though there are still problems that need to be addressed. While users found the prototype visually appealing and engaging, particularly the sizing/consistency of elements and "satisfying" transitions, navigation was found to be inefficient without a home button. 
 Although this was a recurring suggestion in my wireframes, there is not much space in my artboard, and placing it beside or under the back button would make the layout feel cluttered and less visually cohesive.
 
-In the future, my project's navigation should be rethought in a way that doesnt reduce usability, and I will need to explore alterantive layouts or a more efficient system where users can directly return home more easily and naturally within the interface. 
+In the future, my project's navigation should be rethought in a way that doesn't reduce usability, and I will need to explore alternative layouts or a more efficient system where users can directly return home more easily and naturally within the interface. 
 ### Ongoing evaluation: Week 2
 
 <img src="images/week2evaluation.png" width="200" height="">
@@ -215,7 +215,12 @@ Next week, I aim to wrap up my whole project so I have more time to work on theo
 ||"its very aesthetically pleasing"|"maybe reunderline the song names"
 
 ### Feedback Analysis: prototype 2
+The user feedback received provided powerful insights on both positive aspects of my project, and areas that may need more improvement. Visual presentation and user engagement were again highlighted among the strongest features, with users responding positively to the overall aesthetics, consistency and smooth transitions.
+However, navigation and branding was indicated as a weak suit. I had not yet finalised where my home button should go, which is why it was not included at this stage. In addition, the app name, introduction and underlined song titles were accidentally deleted during development, and without user feedback, would have remained unnoticed in my design process.
 
+There were also smaller suggestions such as making the future bibliography a hyperlink to improve accessibility as ease of use.
+
+In my final prototype, I should focus on reinstalling the missing elements, confirm the placement of the home button, and implement the suggested refinements in order to enhance overall user friendliness and functionality.
 
 ### Ongoing evaluation: Week 3
 <img src="images/week3evaluation.png" width="300" height="">
