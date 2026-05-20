@@ -285,7 +285,13 @@ I typed all my information in a google doc referencing my book and other credibl
 
 ## Final Evaluation
 ### Functional and Non-functional requirements:
+
 ### Design brief:
-### Social, Ethical and Legal responsibilities
-### Time, resources and processes
-### Gathering and responding to user feedback
+
+### Social, Ethical and Legal responsibilities:
+
+### Time, resources and processes:
+<img src="images/ganttchart2.png" width="800" height="">
+
+### Gathering and responding to user feedback:
+Although I believe that I generally responded to user feedback adequately, there could have been more effort in gathering user feedback and insights from other peers. 
