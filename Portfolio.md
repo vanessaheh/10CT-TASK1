@@ -93,8 +93,8 @@ Since Croakify is highly audio based, users with hearing impairments will also b
 The app will not collect user data since it does not affect it's functionality and usage, but if it was included later on, I would encrypt data via performing data minimisation, use encryption systems in both rest and transit (eg. AES- 256, TLS) and control who can access personal data, including user verification processes in changing/viewing sensitive information (passwords, user prefs and details). All collection would be transparently stated upon first registration, with clear and consistent policies, and data would be deidentified and destroyed when it is no longer needed or the account is deleted.
 
 ### Ethical responsibilities: Representation, inclusion and content sensitivity
-As the app is mainly informative (exception of frog jokes), there should be no issues with representing the themes, ideas, or species from *"Frogs of Australia"*, especially as information will be only credible sources (including the book).
-However, I will include a bibliography (image, videos, information) and undertake thorough external researching on cultural significance and indigenous perspectives to ensure a respectful and responsible app presentation.
+As the app is mainly informative (exception of frog jokes), there should be no issues with representing the themes, ideas, or species from *"Frogs of Australia"*, especially as information will only be from credible sources (including the book).
+However, I will include a bibliography (image, videos, information) and undertake thorough external research on cultural significance and indigenous perspectives to ensure a respectful and responsible app presentation.
 
 ### Legal considerations
 Scientific data and facts are generally not copyrighted, and can be used for research or in an informative app such as Croakify without infringement. To ensure compliance with copyright laws, images, text and information will be appropriately referenced in my bibliography and rephrased as to avoid plagiarism. 
@@ -174,20 +174,6 @@ Next week, I want have all my artboards, pick my colour palette, add images, and
 || "aesthetically pleasing"|
 || "satisfying transitions and buttons"| 
 
-
-
-Analyse the key themes that emerged from user feedback and their overall impact on the project.
-
-Evaluate how intuitive and user-friendly the prototype was based on user feedback.
-
-Analyse whether the design elements and accessibility features effectively met user needs.
-
-Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
-
-Analyse the similarities and differences between survey responses and interview insights to identify patterns.
-
-Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
-
 ### Feedback Analysis: prototype 1
 From the feedback I have collected, I can deduce that my project is generally moving in a postive direction, though there are still problems that need to be addressed. While users found the prototype visually appealing and engaging, particularly the sizing/consistency of elements and "satisfying" transitions, navigation was found to be inefficient without a home button. 
 Although this was a recurring suggestion in my wireframes, there is not much space in my artboard, and placing it beside or under the back button would make the layout feel cluttered and less visually cohesive.
@@ -227,6 +213,9 @@ Next week, I aim to wrap up my whole project so I have more time to work on theo
 || "frog information is very structured and easy to understand"||
 | Emma | "smooth transitions"| "you havent put the bibliography yet but I suggest you make it into a hyperlink so its clickable||
 ||"its very aesthetically pleasing"|"maybe reunderline the song names"
+
+### Feedback Analysis: prototype 2
+
 
 ### Ongoing evaluation: Week 3
 <img src="images/week3evaluation.png" width="300" height="">
@@ -291,9 +280,14 @@ My final product effectively meets the intentions outlined in my design brief as
 Despite this, the frog profile summaries came out to be longer and more information dense than originally intended, so it may not appeal as strongly to younger audiences who were a large part of my target market. However, this increased detail does enhance the educational value and should not hinder its collective usability or success as an app, as the core structure, navigation and interactivity remains exciting for users. 
 
 ### Social, Ethical and Legal responsibilities:
+I feel that my project manages social, ethical and legal responsibilities to a considerable extent. Accessibility needs were addressed to the best of my ability through the use of high contrast colours, clear navigation, appropriate sizing/spacing and simple, uncluttered layout to improve usability and reduce overstimulation.
+Ethically, I managed to only use credible and reliable sources. and avoided including frogs or content that could have cultural significance requiring external consultation, which helped to ensure respectful representation.
+
+However, from a legal standpoint, I could have incorporated more precise referencing in my information, such as numbered footnotes to strengthen traceability incase of inaccurate information and reliability. Moreover, my disclaimer at the bottom, "ALL INFORMATION AS OF 2026", should have a specific date instead of a year, as frog statuses or other data may change over the period of just months.
 
 ### Time, resources and processes:
 <img src="images/ganttchart2.png" width="800" height="">
+
 I believe I managed my time, resources, and processed quite effectively throught the project, with generally consistent progress and completion of most milestones within planned timeframes overall.
 I also adapted reasonably well to challenges that arose during development, particularly around the limitations of Adobe Xd and what it meant for my project. Some features did not work as well as others (shrinking progress bar), or could not be prototyped the way I initially assumed (back button, progress bar through alight motion), meaning I had to constantly find workaround and adjust certain designs to fit within its capabilities. 
 
