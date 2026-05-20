@@ -287,11 +287,26 @@ I typed all my information in a google doc referencing my book and other credibl
 ### Functional and Non-functional requirements:
 
 ### Design brief:
+My final product effectively meets the intentions outlined in my design brief as an engaging Spotify inspired platform that translates traditional educational content into a more interactive and accessible experience using audio and visual elements, making it more appealing to the general audience than monotonous, text heavy resources. 
+Despite this, the frog profile summaries came out to be longer and more information dense than originally intended, so it may not appeal as strongly to younger audiences who were a large part of my target market. However, this increased detail does enhance the educational value and should not hinder its collective usability or success as an app, as the core structure, navigation and interactivity remains exciting for users. 
 
 ### Social, Ethical and Legal responsibilities:
 
 ### Time, resources and processes:
 <img src="images/ganttchart2.png" width="800" height="">
+I believe I managed my time, resources, and processed quite effectively throught the project, with generally consistent progress and completion of most milestones within planned timeframes overall.
+I also adapted reasonably well to challenges that arose during development, particularly around the limitations of Adobe Xd and what it meant for my project. Some features did not work as well as others (shrinking progress bar), or could not be prototyped the way I initially assumed (back button, progress bar through alight motion), meaning I had to constantly find workaround and adjust certain designs to fit within its capabilities. 
 
-### Gathering and responding to user feedback:
-Although I believe that I generally responded to user feedback adequately, there could have been more effort in gathering user feedback and insights from other peers. 
+Nontheless, there were still areas that could have been improved. I should have made my gantt chart more ambitious, as I would finish the allocated work early and then wait until the following week to begin my next set of tasks. Because the chart was packed tight, it left little to no extra time for unexpected issues or last minute polishing. I could have also worked on creating my prototypes in the holidays to reduce pressure during the school term and further save time.
+
+
+### Gathering and responding to user feedback + possible improvements:
+Although I believe that I have responded to user feedback adequately, taking suggestions into consideration and making appropriate changes, there could have been more effort in gathering user feedback.
+
+I had only asked users for positive/negative aspects and areas for improvement, which may have influenced their responses as they were not given more specific guidance on what to comment and make a judgement on.
+Additonally, feedback was only gathered from three people in total throughout the process, which meant my evaluation was based on a small sample size and may not accurately represent the opinions and needs of a wider audience. 
+Both of these factors reduce the detail and reliability of feedback collected, limiting my ability to fully identify all areas of improvement and make well-informed improvements to my project.  
+In the future, I should examine a larger and more diverse range of users, and use more explicit questions in the form of a online survey or interview to encourage more accurate and useful responses. 
+
+When looking at my final project, I believe I have  created a sophisticated, intuitive product that successfully fulfills its intended purpose as an engaging, educational wildlife app. However, 
+there are still several aspects of the project that require further development, including the shrinking progress bars and lack of a resume function when playing music. Ultimately, these features could not be fully developed within Adobe XD due to its limited tools and functionality, meaning the project would need to be transferred to another software for a more proffessional and advanced outcome overall.
