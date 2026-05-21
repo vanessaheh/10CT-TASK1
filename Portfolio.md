@@ -62,7 +62,7 @@ Self testing by clicking on the singers, confirming that each profile loads/redi
 ## Non-Functional requirements
 
 ### Performance
-The app will deliver smooth, reponsive interactions via simple transitions between scenes, respond to input within 0.1- 1 second (excluding loading into the app), and should not lag, glitch or display the wrong page.
+The app will deliver smooth, responsive interactions via simple transitions between scenes, respond to input within 0.1- 1 second (excluding loading into the app), and should not lag, glitch or display the wrong page.
 
 ### Usability
 I will ensure Croakify will be easy to use by maintaining a consistent layout, colour palette, and clear, universal symbols in my buttons/interactive features. The same font, sizing, and stylisation (bold, italic, underlining) will be used throughout the app, and all text must be of and easy to read/identify.
@@ -279,6 +279,20 @@ I typed all my information in a google doc referencing my book and other credibl
 
 ## Final Evaluation
 ### Functional and Non-functional requirements:
+fucntional
+non functional
+sated purpose is good because it is eeffective
+
+use case flow its not alphabeticallly arranged... i frogot..
+exoected behaviours' ya it behaves hopw i expect iut to 
+usability
+very goddo sicne i did what i said
+perfromance as expected
+reliability
+ya i wrote credible
+i didnt really test among phone sizes 
+no secitruy
+
 
 ### Design brief:
 My final product effectively meets the intentions outlined in my design brief as an engaging Spotify inspired platform that translates traditional educational content into a more interactive and accessible experience using audio and visual elements, making it more appealing to the general audience than monotonous, text heavy resources. 
