@@ -279,20 +279,11 @@ I typed all my information in a google doc referencing my book and other credibl
 
 ## Final Evaluation
 ### Functional and Non-functional requirements:
-fucntional
-non functional
-sated purpose is good because it is eeffective
+I believe Croakify sufficiently meets most of its functional and nonfunctional requirements while while successfully serving as an educational music app that makes information more engaging and enjoyable for users to consume.
 
-use case flow its not alphabeticallly arranged... i frogot..
-exoected behaviours' ya it behaves hopw i expect iut to 
-usability
-very goddo sicne i did what i said
-perfromance as expected
-reliability
-ya i wrote credible
-i didnt really test among phone sizes 
-no secitruy
+In terms of functional requirements, users are able to select frog "songs", play and pause audio, access frog profile pages, and use both the back and later added home button to efficiently navigate between artboards. The expected behaviours were achieved in my final product, as audio playback, buttons and pages responded as intended with correctly displayed visuals and information. However, songs were not arranged alphabetically as originally planned, as I overlookied implementing this feature during development as a result of not thoroughly reviewing my requirements beforehand. This slightly reduces the convenience and usability of Croakify as a large part of my application, and users would need to become familiar to playlist ordering to locate specific songs/frogs more easily.
 
+Non functionally, Croakify maintains a consistent layout, colour palette, font style, and button design, making navigation clear and intuitive for users. Performance met expectations with smooth transitions and responses without lag during testing. Reliability was also maintained via the use of credible sources and consideration of accuracy and relevance. However, this could have been further supported through gathering feedback from a more diverse audience to better understand different user needs, as well as conducting responsive testing across various phone sizes, which I did not have the means or resources for. This may affect the consistency and appearance of layouts, text and media, ultimately altering the overall user experience on certain devices.  
 
 ### Design brief:
 My final product effectively meets the intentions outlined in my design brief as an engaging Spotify inspired platform that translates traditional educational content into a more interactive and accessible experience using audio and visual elements, making it more appealing to the general audience than monotonous, text heavy resources. 
@@ -302,7 +293,7 @@ Despite this, the frog profile summaries came out to be longer and more informat
 I feel that my project manages social, ethical and legal responsibilities to a considerable extent. Accessibility needs were addressed to the best of my ability through the use of high contrast colours, clear navigation, appropriate sizing/spacing and simple, uncluttered layout to improve usability and reduce overstimulation.
 Ethically, I managed to only use credible and reliable sources. and avoided including frogs or content that could have cultural significance requiring external consultation, which helped to ensure respectful representation.
 
-However, from a legal standpoint, I could have incorporated more precise referencing in my information, such as numbered footnotes to strengthen traceability incase of inaccurate information and reliability. Moreover, my disclaimer at the bottom, "ALL INFORMATION AS OF 2026", should have a specific date instead of a year, as frog statuses or other data may change over the period of just months.
+Conversely, from a legal standpoint, I could have incorporated more precise referencing in my information, such as numbered footnotes to strengthen traceability incase of inaccurate information and reliability. Moreover, my disclaimer at the bottom, "ALL INFORMATION AS OF 2026", should have a specific date instead of a year, as frog statuses or other data may change over the period of just months.
 
 ### Time, resources and processes:
 <img src="images/ganttchart2.png" width="800" height="">
@@ -312,14 +303,14 @@ I also adapted reasonably well to challenges that arose during development, part
 
 Nontheless, there were still areas that could have been improved. I should have made my gantt chart more ambitious, as I would finish the allocated work early and then wait until the following week to begin my next set of tasks. Because the chart was packed tight, it left little to no extra time for unexpected issues or last minute polishing. I could have also worked on creating my prototypes in the holidays to reduce pressure during the school term and further save time.
 
-
 ### Gathering and responding to user feedback + possible improvements:
 Although I believe that I have responded to user feedback adequately, taking suggestions into consideration and making appropriate changes, there could have been more effort in gathering user feedback.
 
 I had only asked users for positive/negative aspects and areas for improvement, which may have influenced their responses as they were not given more specific guidance on what to comment and make a judgement on.
 Additonally, feedback was only gathered from three people in total throughout the process, which meant my evaluation was based on a small sample size and may not accurately represent the opinions and needs of a wider audience. 
-Both of these factors reduce the detail and reliability of feedback collected, limiting my ability to fully identify all areas of improvement and make well-informed improvements to my project.  
+Both of these factors reduce the detail and reliability of feedback collected, limiting my ability to fully identify all areas of improvement and make well-informed advancements to my project.  
 In the future, I should examine a larger and more diverse range of users, and use more explicit questions in the form of a online survey or interview to encourage more accurate and useful responses. 
 
-When looking at my final project, I believe I have  created a sophisticated, intuitive product that successfully fulfills its intended purpose as an engaging, educational wildlife app. However, 
-there are still several aspects of the project that require further development, including the shrinking progress bars and lack of a resume function when playing music. Ultimately, these features could not be fully developed within Adobe XD due to its limited tools and functionality, meaning the project would need to be transferred to another software for a more proffessional and advanced outcome overall.
+When looking at my final project, I believe I have created a sophisticated, intuitive product that successfully fulfills its intended purpose as an engaging, educational wildlife app. Nonetheless, there are still several aspects of the project that require future development, including fixing the shrinking progress bars, alphabetically arranging the playlist, collecting more suitable feedback, and adding a resume music function via another software.
+
+While Adobe XD's limited tools and capabilities played a part in restricting potential improvements, it is clear that further reflection on the design and development process would also be essential for a more professional and advanced outcome overall.
