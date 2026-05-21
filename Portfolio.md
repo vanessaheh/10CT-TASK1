@@ -9,13 +9,13 @@ The book I have chosen in Australian Geographic's *"A complete guide to Frogs of
 
 The encylopaedia provides a detailed and comprehesive account for all 246 recognised species and subspecies (as of 2018), including photographs, distribution maps, characteristics, reproduction, status and more. It is divided into 5 coloured categories, visible from the outer edges: Australian tree frogs, foam-nesting ground frogs, ground frogs, narrow-mouthed frogs, true frogs, and true toads. The frontmost pages outlines the contents and a brief introduction, while the back has an index and bibliography.
 
-I chose this book after reading and returning my first option (Anomaly) because I found that the topic of frogs seemed more interesting, and would be better suited to create an experience out of overall.
+I chose this book after reading and returning my first option (Anomaly) as I found that the topic of frogs seemed more interesting, and would be better suited to create an experience out of overall.
 
 ### User Experience Type
 My project will be an interactive app that is engaging, informative, and aesthetically pleasing. This format enhances the themes of the book by providing an immersive audio experience where users can listen to real demonstrations by Australian frogs and creates a postive learning experience for the audience. 
 
 ### Target Market
-While Croakify itself is appropriate for all ages, users need to have at least primary school reading level to understand given facts and terminology. This project will appeal to the target audience because it allows users to discover and browse through diferent frog species without having to read long paragraphs of scientific text, as in the encyclopaedia.
+While Croakify itself is appropriate for all ages, users need to have at least primary school reading level to understand given facts and terminology. This project will appeal to the target audience because it allows users to discover and browse through diferent frog species without having to read long paragraphs of scientific text, as seen in the encyclopaedia.
 
 ### Software and Tools
 
@@ -36,7 +36,7 @@ Furthermore, I wanted to include as much information/relevance from my book as p
 ## Functional Requirements
 
 ### Purpose of the Application
-Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time + productivity) through audio and short summaries in a structure similar to Spotify. This app will engage fans within its genre by transforming overly informative and tedious content into an interactive experience with bite sized details and statistics.
+Croakify will inform users on a selection of Australian frogs (around 10-15, depending on time and productivity) through audio and short summaries in a structure similar to Spotify. This app will engage fans within its genre by transforming overly informative and tedious content into an interactive experience with bite sized details and statistics.
 
 ### Use Cases
 Identify at least four key user actions:  
@@ -48,16 +48,16 @@ Identify at least four key user actions:
 
 - **Back button:** Users can choose to go back to their previous page with a back button located at the top left side of the screen.
 
-### Text Cases
-- **Selecting songs:** Self testing via selecting songs while they are still playing to confirm both the audio and page changes.
+### Test Cases
+- **Selecting songs:** Peer testing via selecting songs from the home playlist to confirm both the audio and page changes.
 
 - **Play/Pause:** When the pause/play button is selected, the song must stop/play within 0.2- 0.5 seconds along with the change in symbol. (triangle/parallel bars)  
-This will be self tested by repeatedly clicking the pause/play button, ensuring it does not lag and responds as intended to player input.
+Self testing via repeatedly clicking the pause/play button, ensuring it does not lag and responds as intended to player input.
 
 - **Singer (frog) profiles**: 
 Self testing by clicking on the singers, confirming that each profile loads/redirects correctly with accurate information and visuals.
 
-- **Back Button:** Asking peers to press the back button for every redirection they encounter while using the app, reporting any errors.
+- **Back Button:** Peer testing by pressing the back button while using the app, reporting any errors.
 
 ## Non-Functional requirements
 
@@ -84,7 +84,7 @@ Although the app is designed for all users, additional considerations regarding 
 
 Croakify will postively impact users by creating an enjoyable and memorable learning environment, encouraging curiosity and environmental awareness, and inspiring external engagement with conservation topics, especially in younger generations.
 
-However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as *"Frogs of Australia"* is from 2018, information such as status will need to be rechecked, and there will need to be a date of last edit disclaimer), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
+However, there are also several potential risks associated with the creation of the app. If information is oversimplified or becomes outdated (especially as *"Frogs of Australia"* was published in 2018, information such as status will need to be rechecked, and there will need to be a date of last edit disclaimer), users may receive inaccurate or misleading details that could result in the mishandling of frogs, disturbance of habitats, or incorrect identification of endangered or toxic species. 
 Moreover, some frogs may have cultural significance to Indigenous Australians or other communities (eg. the northern corroboree frog as a sacred totem of changing season to the Walgalu people), and using images/data without proper acknowledgement or portrayal could be perceived as disrepectful.
 
 Since Croakify is highly audio based, users with hearing impairments will also be greatly disadvantaged.
@@ -93,7 +93,7 @@ Since Croakify is highly audio based, users with hearing impairments will also b
 The app will not collect user data since it does not affect it's functionality and usage, but if it was included later on, I would encrypt data via performing data minimisation, use encryption systems in both rest and transit (eg. AES- 256, TLS) and control who can access personal data, including user verification processes in changing/viewing sensitive information (passwords, user prefs and details). All collection would be transparently stated upon first registration, with clear and consistent policies, and data would be deidentified and destroyed when it is no longer needed or the account is deleted.
 
 ### Ethical responsibilities: Representation, inclusion and content sensitivity
-As the app is mainly informative (exception of frog jokes), there should be no issues with representing the themes, ideas, or species from *"Frogs of Australia"*, especially as information will only be from credible sources (including the book).
+As the app is mainly informative (exception of frog jokes if added), there should be no issues with representing the themes, ideas, or species from *"Frogs of Australia"*, especially as information will only be from credible sources (including the book).
 However, I will include a bibliography (image, videos, information) and undertake thorough external research on cultural significance and indigenous perspectives to ensure a respectful and responsible app presentation.
 
 ### Legal considerations
@@ -232,7 +232,7 @@ This week, I finally finished my project.
 
 **Footers:**
 
-I drew up the footer in procreate, but thought using the same footer image for every artboard woul seem repetitive. I decided on only using the drawn one on the main screen, and pictures of the corresponding frog for the rest. 
+I drew up the footer in procreate, but thought using the same footer image for every artboard would seem repetitive. I decided on only using the drawn one on the main screen, and pictures of the corresponding frog for the rest. 
 The fade effects were also transparent pngs from procreate.
 
 
